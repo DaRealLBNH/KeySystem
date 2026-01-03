@@ -1,2 +1,544 @@
--- this file was generated using ironbrew1
-return(function(a,a,b,b,b,b,c,d,e,f,g,h,i,j,k,l,m,m,m,n,n,n,n,n,n,o,o,o,o,o,o,o,o,p)local q,r,s,t,u,v,w,x,y,z,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,ca,cb,cc,cd,ce,cf,cg local ch={}local ci={}ci[1]=4 ci[2]=2 ci[3]=2 local cj=0 local ck=58761 while true do if ck>=-17513 then do if ck>=62823 then if ck<=69400 then if ck>=68779 then if ck<=68779 then cb=function(...)return{...},k('#',...)end ck=-25263 else if ck==69320 then return cg();end if ck~=69320 then bx=function(cl)local cm,cn,co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=2 ct[2]=1 ct[3]=2 local ct=0 local ct=55960 while true do if ct<=48791 then do if ct==-46591 then break end if ct~=-46591 then ct=cq[53]continue end continue end end if ct>48791 then do if ct<79860 then cm,cn,co,cp=e(cl,bn,bn+3)bn=bn+4 cq[53]=cr[55960+192111]or cs(79860,55960+192111)ct=48791 continue end do return((cp*16777216)+(co*65536)+(cn*256)+cm);end continue end end end end ck=-11965 continue end end continue end if ck>=63745 then if ck<64233 then z=function(cl,cm,cn)local co=cn-cm+1 if co>7997 then return y(cl,cm,cn)else return m(cl,cm,cn)end end cj,ck=35377,35377 continue end if(ck<64233)and 4959>0 then continue end if ck>=64233 then by=function(m)local cl,cm local cn={}local co={}local function cp(cq,cr)local cs=ba(cr,cr)local cq=cq+cs co[cr]=cq;return cq end local cq={}cq[1]=0 cq[2]=4 cq[3]=0 local cq=65089 local cr=0 while true do if cq>=65089 then if cq==65089 then cl,cm=e(m,bn,bn+1)bn=bn+2 cn[54]=if co[ba(65089,64819)]~=nil then co[ba(65089,64819)]else cp(-21466,ba(65089,64819))cq=79983 continue end cq=cn[54]continue end if(cq>=65089)and 5232>0 then continue end if cq<65089 then if cq<=-21466 then return((cm*256)+cl);end if cq>-21466 then break end continue end end end ci[1]=(ci[1]+1)%5 cj,ck=-16677,-16677 continue end else bt=function(m)local cl local cm={}local cn={}local function co(cp,cq)local cr=ba(cq,cq)local cp=cp+cr cn[cq]=cp;return cp end local cp={}cp[1]=1 cp[2]=0 cp[3]=2 local cp=46236 local cq=0 while true do if cp<=46056 then if cp~=46056 then cp=cm[45]continue end do return cl;end continue end if cp~=74062 then cl=0 cl=q(r(m),(bn)-1)bn=bn+1 cm[45]=if not(not cn[ba(46236,39298)])then cn[ba(46236,39298)]else co(46056,ba(46236,39298))cp=-39228 continue end do break end continue end end cj,ck=-25260,-25260 end continue else if ck<=78361 then if ck<=72810 then ca=function(m)local cl={[3721]={},[8754]={},[617]={},[3280]={},[4146]={},[3877]={},[8777]={},}bi(cl,4146,bt(m)==1)local cm=bv(m)local cn={}for co=0,cm-1 do local cm,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=3 ct[2]=4 ct[3]=0 local cu=28572 local cv=0 while true do if cu>=28572 then if cu<=34461 then if cu==28572 then cq[58]={}ct[1]=(ct[1]+1)%5 cq[59]=cr[28572+14982]or cs(22815,28572+14982)cu=75731 continue end if cu~=28572 then cp=bv(m)do do local ct,cw,cx local cy={}local cz={}local function da(db,dc)cz[dc]=db;return cz[dc]end local db={}db[1]=0 db[2]=3 db[3]=4 local dc=28244 local dd=0 while true do if dc>=70569 then if dc>=82069 then if dc~=85362 then dc=cy[56]else cx=(cp)if cw>=0 then while ct<=cx do do cm[ct]=bv(m);end ct=ct+cw end else while ct>=cx do do cm[ct]=bv(m);end ct=ct+cw end end cy[57]=cz[85362+40348]or da(-24101,85362+40348)dc=70569 end else dc=cy[57]end else if dc==-24101 then break end ct=(1)cw=(1)db[1]=(db[1]+1)%5 cy[56]=if cz[28244+40348]then cz[28244+40348]else da(85362,28244+40348)dc=82069 continue end end end end cn[co]=cm cq[61]=if not(not cr[34461+146053])then cr[34461+146053]else cs(73552,34461+146053)cu=-25951 continue end continue end if cu~=75731 then break end if cu==75731 then cu=cq[59]continue end continue else if cu>=-25951 then if cu<=-25951 then cu=cq[61]else cm=cq[58]cp=nil cq[60]=if not(not cr[22815+14982])then cr[22815+14982]else cs(34461,22815+14982)cv,cu=-40457,-40457 end continue end cv,cu=cq[60],cq[60]continue end end end;cl[4196]=cn;local cm=bt(m)~=0 if not(not(cm))then local cm,cn,co local cp={}local cq={}local function cr(cs,ct)cq[ct]=cs;return cq[ct]end local cs={}cs[1]=1 cs[2]=4 cs[3]=0 local ct=0 local cu=-25019 while true do if cu<=-15495 then if cu<=-23202 then if cu<-23202 then cp[64]={}cp[65]=if cq[-25019+202265]then cq[-25019+202265]else cr(-15495,-25019+202265)cu=70530 continue end if cu>=-23202 then cl[8777]=cn cs[1]=(cs[1]+1)%5 cp[68]=if not(not cq[-23202+202265])then cq[-23202+202265]else cr(-13209,-23202+202265)ct,cu=35459,35459 continue end continue end if cu==-20960 then ct,cu=cp[66],cp[66]continue end if cu~=-20960 then cm=nil cm=bv(m)cp[66]=cq[-15495+202265]or cr(25753,-15495+202265)ct,cu=-20960,-20960 continue end continue else if cu<=25753 then if cu==-13209 then break end cn=nil cn=cp[64]co=0 for cs=1,cm do local cm,cs,cv,cw local cx={}local cy={}local function cz(da,db)cy[db]=da;return cy[db]end local da={}da[1]=0 da[2]=2 da[3]=4 local da=-33834 local db=0 while true do if da<=-33834 then if da==-36851 then db,da=cx[62],cx[62]continue end cm=not((bt(m))==(0))cs=cm and 1 or 0 cv=nil cx[62]=if cy[-33834+73586]~=nil then cy[-33834+73586]else cz(70916,-33834+73586)db,da=-36851,-36851 continue end if da>-33834 then if da>=21651 then if da==21651 then da=cx[63]continue end if(da==21651)and 2805>0 then continue end if da~=21651 then cv=bw(m)cw=co+cv co=cw do c(cn,{cs,cw})end cx[63]=cy[70916+204657]or cz(-25658,70916+204657)da=21651 continue end continue end do break end continue end end end cp[67]=if cq[25753+71194]then cq[25753+71194]else cr(-23202,25753+71194)cu=56653 continue else if cu>=56653 then if cu==56653 then cu=cp[67]continue end if cu~=56653 then cu=cp[65]continue end continue end if cu<56653 then ct,cu=cp[68],cp[68]continue end end end end end local c c=bv(m)local cm={}do for cn=0,c-1 do local c=bt(m)do if c==0 then local co=bt(m)if not(not(co==0))then local co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=0 ct[2]=1 ct[3]=1 local ct=72943 local cu=0 while true do if ct>=-11909 then if ct>=56579 then if ct~=72943 then do bi(cm,cn,cp)cq[70]=cr[56579+33750]or cs(-11909,56579+33750)cu,ct=-41933,-41933 continue end end if ct==72943 then do co=bv(m)cp=nil cp=b(m,bn,bn+co-1)bn=bn+co cq[69]=cr[72943+33750]or cs(56579,72943+33750)ct=-40391 continue end end continue end if(ct>=56579)and 3759>0 then continue end if ct<56579 then break end continue end if(ct>=-11909)and 1016>0 then continue end if ct<-11909 then if ct~=-40391 then cu,ct=cq[70],cq[70]continue end ct=cq[69]continue end end end elseif(1)==(c)then local co=bt(m)if co==1 then bi(cm,cn,bw(m))else cm[cn]=bz(m);end;elseif not((c)~=(2))then local co=bt(m)if co==1 then do cm[cn]=bv(m);end else cm[cn]=bo(m);end;elseif c==3 then do cm[cn]=bu(m);end elseif c==4 then local co local cp={}local cq={}local function cr(cs,ct)cq[ct]=cs;return cq[ct]end local cs={}cs[1]=1 cs[2]=1 cs[3]=2 local ct=0 local cu=66348 while true do if cu<=-35538 then if cu~=-35538 then break end if cu==-35538 then ct,cu=cp[72],cp[72]continue end else if cu>=66348 then if cu~=86840 then do co=nil co=bt(m)cp[71]=cq[66348+187782]or cr(39396,66348+187782)cu=86840 continue end end if cu==86840 then do cu=cp[71]continue end end else do local co=((1)==(co))if co then cm[cn]=bw(m);else cm[cn]=bu(m);end end cs[3]=(cs[3]+1)%5 cp[72]=if cq[39396+187782]then cq[39396+187782]else cr(-49187,39396+187782)ct,cu=-35538,-35538 end end end elseif c==5 then do bi(cm,cn,bt(m)==1)end else cm[cn]=nil;end;end end;cl[8754]=cm;end do bi(cl,617,bt(m))cl[6390]=bv(m);end local c=bv(m)local cm={}local cn=0 for co=1,c do local c,co,cp,cq,cr local cs={}local ct={}local function cu(cv,cw)ct[cw]=cv;return ct[cw]end local cv={}cv[1]=0 cv[2]=0 cv[3]=1 local cw=39330 local cx=0 while true do if cw<=-10983 then if cw>=-21091 then if cw<-10983 then cp=bw(m)cq=cn+cp cn=cq cr=bt(m)cs[74]=ct[-21091+183808]or cu(78492,-21091+183808)cw=39770 else cx,cw=cs[75],cs[75]end continue end if cw<-21091 then break end continue end if cw<=39770 then if cw<=39330 then do c=(0)~=(bt(m))co=c and 1 or 0 cv[3]=(cv[3]+1)%5 cs[73]=if ct[39330+52737]then ct[39330+52737]else cu(-21091,39330+52737)cx,cw=64735,64735 continue end end if cw>39330 then do cw=cs[74]continue end end else if cw==64735 then cx,cw=cs[73],cs[73]else bi(cm,#(cm)+1,{co,cq,cr})cs[75]=if not(not ct[78492+52737])then ct[78492+52737]else cu(-25036,78492+52737)cx,cw=-10983,-10983 end end continue end end cl[3877]=cm for c=1,bv(m)do bi(cl[3280],c-1,ca(m))end;local c=bv(m)local cm cm={}local cn,co,cp,cq cn,co,cp,cq=0,0,0,0 for cr=1,c do local c={}c[7781]=bv(m);local cs=bt(m)==1 local ct ct=(1)==(bt(m))local cu=(1)==(bt(m))local cv=bt(m)do repeat if(cv==1)then local cw=by(m)local cx={}local cy={}local cz={}local da,db,dc=0,0,0 for dd=0,cw-1 do local cw={}local de={}local function df(dg,dh)de[dh]=dg;return de[dh]end local dg={}dg[1]=4 dg[2]=2 dg[3]=1 local dh=0 local di=76440 while true do if di<=-35630 then if di>=-39728 then do if di<=-39728 then break end if(di<=-39728)and 3709>0 then continue end if di>-39728 then cz[dd]=dc cw[78]=if not(not de[-35630+28510])then de[-35630+28510]else df(-39728,-35630+28510)di=54529 continue end continue end end if di<-39728 then do bi(cx,dd,da)cy[dd]=db cw[77]=if de[-44145+28510]then de[-44145+28510]else df(-35630,-44145+28510)dh,di=-18325,-18325 continue end end continue end if di>-35630 then if di<=-18325 then if di~=-18325 then dh,di=cw[76],cw[76]else dh,di=cw[77],cw[77]end continue end if di>-18325 then if di<76440 then do di=cw[78]continue end end if di>=76440 then do da=da+bw(m)db=db+bw(m)do dc=dc+bw(m);end dh=dg[1]==0 and-35630 or-44145 cw[76]=de[76440+159581]or df(-44145,76440+159581)dh,di=-24242,-24242 continue end end continue end continue end end end;c[2340]=cx;c[470]=cy;bi(c,12,cz)break end if(cv==2)then local cw=by(m)local cx={}local cy={}local cz,da=0,0 for db=1,cw do local cw={}local dc={}local function dd(de,df)dc[df]=de;return dc[df]end local de={}de[1]=0 de[2]=4 de[3]=0 local de=0 local de=50718 while true do if de>=47328 then if de>=50718 then do if de<53959 then cz=cz+bw(m)da=da+bw(m)cx[db]=cz cw[79]=if not(not dc[50718+178415])then dc[50718+178415]else dd(-22221,50718+178415)de=53959 else de=cw[79]end continue end end if de<50718 then do de=cw[80]continue end end continue end if de==-22221 then do cy[db]=da cw[80]=dc[-22221+178415]or dd(-10816,-22221+178415)de=47328 continue end end if de~=-22221 then do break end end continue end end;c[2340]=cx;bi(c,470,cy)break end if(cv==3)then local cw=by(m)local cx={}local cy cy=0 do local cz=(1)local da=(1)local cw=(cw)if da>=0 then if cz<=cw then repeat cy=cy+bw(m);bi(cx,cz,cy)cz=cz+da until not(cz<=cw)end else if cz>=cw then repeat local db={}local dc={}local function dd(de,df)dc[df]=de;return dc[df]end local de={}de[1]=2 de[2]=1 de[3]=4 local de=-30236 local df=0 while true do if de>=57323 then if de>=59205 then if de<=59205 then break end df,de=db[81],db[81]continue end if de<59205 then de=db[82]continue end else if de~=-11444 then cy=cy+bw(m)bi(cx,cz,cy)db[81]=if not(not dc[-30236+24626])then dc[-30236+24626]else dd(-11444,-30236+24626)df,de=63402,63402 else cz=cz+da db[82]=dc[-11444+155697]or dd(59205,-11444+155697)de=57323 end end end until not(cz>=cw)end end end bi(c,2340,cx)break end if(cv==4)then local cv cv=by(m)local cw={}local cx cx={}local cy={}local cz cz={}local da,db,dc,dd=0,0,0,0 for de=1,cv do local cv={}local df={}local function dg(dh,di)df[di]=dh;return df[di]end local dh={}dh[1]=3 dh[2]=0 dh[3]=1 local dh=-28117 local di=0 while true do if dh>=-13941 then if dh<=41115 then do if dh<41115 then dd=dd+bw(m)cw[de]=da bi(cx,de,db)bi(cy,de,dc)cv[84]=if not(not df[-13941+230200])then df[-13941+230200]else dg(41750,-13941+230200)di,dh=41115,41115 continue end di,dh=cv[84],cv[84]continue end end if dh>41115 then do if dh~=56562 then cz[de]=dd cv[85]=if not(not df[41750+230200])then df[41750+230200]else dg(56562,41750+230200)di,dh=-35702,-35702 else break end continue end end continue end if dh<-13941 then if dh>=-35702 then if dh<-28117 then di,dh=cv[85],cv[85]else da=da+bw(m)db=db+bw(m)dc=dc+bw(m)cv[83]=if df[-28117+99129]then df[-28117+99129]else dg(-13941,-28117+99129)di,dh=-35885,-35885 end continue end di,dh=cv[83],cv[83]continue end end end;bi(c,2340,cw)c[470]=cx;c[12]=cy;c[4113]=cz;break end cn=cn+bw(m);co=co+bw(m);do cp=cp+bw(m);cq=cq+bw(m);end c[2340]=cn;bi(c,470,co)c[12]=cp;c[4113]=cq;until true end bi(c,6963,cs)bi(c,6824,ct)bi(c,3360,cu)do local m={}local cn={}local function co(cp,cq)cn[cq]=cp;return cn[cq]end local cp={}cp[1]=2 cp[2]=2 cp[3]=3 local cq=0 local cs=44032 while true do if cs>=51875 then if cs<=51875 then cs=m[88]continue end if cs>51875 then if cs==68203 then break end if(cs==68203)and 1304>0 then continue end if cs~=68203 then cq,cs=m[87],m[87]continue end continue end else if cs~=44032 then c[7134]=m[86]cm[cr]=c m[88]=cn[36115+15832]or co(68203,36115+15832)cs=51875 continue end if cs==44032 then m[86]=cm[cr-1]cp[2]=(cp[2]+1)%5 m[87]=if not(not cn[44032+146903])then cn[44032+146903]else co(36115,44032+146903)cq,cs=76208,76208 continue end end end end end;cl[3721]=cm;return cl;end ci[1]=(ci[1]+1)%5 ck=68779 continue end do if ck==73786 then t=p[(function(c,m)local cl local cm={}local cn={}local function co(cp,cq)cn[cq]=cp;return cn[cq]end local cp={}cp[1]=0 cp[2]=1 cp[3]=2 local cq=0 local cq=65702 while true do if cq>=45090 then if cq~=65702 then cq=cm[9]continue end if cq==65702 then cm[8]={}cp[3]=(cp[3]+1)%5 cm[9]=if cn[65702+159120]~=nil then cn[65702+159120]else co(-45333,65702+159120)cq=45090 continue end else if cq==-45333 then cl=cm[8]for cm=1,#c do local c=e(c,cm)cl[cm]=o(d(37,99),(c-(m+cm))%256)end return i(cl)end do break end end end end)("\209\205\197\209\195\212\152",89)]u=p[(function(c,m)local cl local cm={}local cn={}local function co(cp,cq)cn[cq]=cp;return cn[cq]end local cp={}cp[1]=1 cp[2]=2 cp[3]=1 local cq=0 local cr=57416 while true do if cr<=-44462 then if cr<-44462 then do cq,cr=cm[11],cm[11]continue end end if cr>=-44462 then do break end end continue end do if cr~=57416 then cl=cm[10]for cs=1,#c do local c=e(c,cs)cl[cs]=o(d(37,99),(c-(m+cs))%256)end return i(cl)end cm[10]={}cp[3]=(cp[3]+1)%5 cm[11]=if cn[57416+153904]then cn[57416+153904]else co(46905,57416+153904)cq,cr=-44687,-44687 continue end end end)("\213\209\214\216\215\207\213\207",96)]v=table and table.move or function(c,m,cl,cm,cn)local co={}local cp={}local function cq(cr,cs)cp[cs]=cr;return cp[cs]end local cr={}cr[1]=0 cr[2]=4 cr[3]=2 local cr=-17685 local cs=0 while true do if cr<=24588 then if cr<24588 then co[15]=if not(not cn)then cn else c co[16]=cp[-17685+33125]or cq(42949,-17685+33125)cr=24588 continue end cr=co[16]continue else if cr<=38281 then break else cn=co[15]cm=cm+cl for co=cl,m,-1 do local m={}local cl={}local function cp(cq,cr)cl[cr]=cq;return cl[cr]end local cq={}cq[1]=2 cq[2]=3 cq[3]=4 local cq=-35932 local cr=0 while true do if cq<=32860 then if cq<32860 then cm=cm-1 m[12]=c[co]m[13]=if cl[-35932+64256]~=nil then cl[-35932+64256]else cp(65134,-35932+64256)cq=60615 continue end if cq>=32860 then cr,cq=m[14],m[14]continue end continue end if cq>=65134 then if cq<=65134 then cn[cm]=m[12]m[14]=if cl[65134+64256]then cl[65134+64256]else cp(82014,65134+64256)cr,cq=32860,32860 continue end if cq>65134 then break end continue end if(cq>=65134)and 3131>0 then continue end if cq<65134 then cq=m[13]continue end continue end end;return cn;end end end end cj,ck=-29937,-29937 continue end ch[92]={}cj,ck=-28891,-28891 continue end continue end if ck>78361 then if ck<=80405 then bq=nil ck=-17904 continue end if(ck<=80405)and 4417>0 then continue end if ck>80405 then if ck<=80462 then bv=nil cj=ci[3]~=1 and 48013 or-31697 cj,ck=-31697,-31697 continue end bm=bl([==[SiHcNf.?t&J<S-<kf<[`s8O8AO,*N15@fS3LBr0]6iR,cs*pu/Tapml6N/&VA>kT`6AG=I)(O^&3oltEq>^JEL_';'.WhU"rJ*H+J#L_frXU%7s,`oa*U<Y8*U6!6l4<iCQr'KoKF8eY9^'BI%J(Zb_[2W0El!H0_$P;$W@NN+2t&E@&2?Gn3>+LKnO(5^I)lkKa:KHa&;LZ/nkb)Mp&?1&LH;5c&nIq.+6pau5&@1t2>!SK6Q[dOaNu(tKanhE<1)%+%Xj_kTai(moV"J0U&L,s%f(ke*GWItatV;<_h8NkLCQ\E5Kpd5_n:^Z9PD=s%V)FkLD'67$DSmB,l,Sm.nLp<8-/nCdhFe\M8nP[5Q3B'`!%#&/r4`XNsd.D>S-c?%j=IFiPuBnZV#0@JaIFdEBM08n-q+5_F'EGJ/#rf_F"T!('LuS$Shk?E@:hjPUId[E\kd6$kbE1FUZ,`#Z3%F+:9J*#Y'P?n6&*iXX,a46J;\R*_L+?+lurT8jl_).H:V8T3R<.d%Y&$,t!l`"Ren:9qVeX8NlW<FL[NfhMK;f'Nq+`=HQ^1.lmf%$3[%nEJ2OS$h4^GM\CUP&0_0B?ob/f6Jj<r0[D>J(b-gODO!U'W/7)PkG]Y>ef?ge]Po?^n!9>f-NHZj9r'c2>YeK(bY?HqHVM:`k0/@FH[7cdqFgmD8,ugI#nSIM9=_UJ="Zl/mBKtr8&\'bD=:K.fPU<Tk/,Ua1J?2'-Ur]]C4/:G>A#]=Nh_&udU84+,<h(gK3Qu8FtW/e7-)3o.[_Z]i4M\L""a\29[7]HVc.+4]4KA6k_U\X9PhZ(17I:J;t<i:alR=&E2oh[*q;OeDSNQ@_O>%XPnT&P6Pp:iUPtp]cENhf?kD*5k0/DB@k]a6@FJ='88`fb0R4OL`ed/*?tZY=\q=)4b@CV\UMuh`muk)kjNNAU3]hj*"IKi4-,gCP(b*[<,o0J$-<6l"jFeD(5_*inA40l^$.,N-U7?l:KFh$`7F7j_bmj7/O5*:m*L`2S7%P&d'>T?82=VmGfP5Iog0m;=baFZgVGZVYM-,%BOB#-q7CV-.fVSDp:ui;IX@-Y-)A(7#BsHP,O[-^Ff:WdJe!/uiM*/c0O\-As44[tT/eb0S`&50=gKgf\$-,(UH/T$;Q[-jn\Mfi\DWm?^V3)goR1!U\>3*B0.EMA?jZLRn--g^XB%F+5XE:VJ6.K#f,6=mhl2im*8Ku*G2$iCKiXK"n"Y5fR&L'2@>JdKD"r.J$0:Dkb,:;=\DA6mi$,Aet*&ZnJ2j>Ef*0h1*&0asrS&s(gREPdHS74qpFJC+7E)Y:UFZPKp%3P_*'[@*n`#ET5.Zt@"%?jAZ5i,072?gT\EaiWUUWtDB.5ldTQk_?^@,:44dEn9"^1nj68Yh.W0*ha`&BP23M.cOf`(Fn)nY%+FVU%'F!0kBU!&RTD]KJ3^Pr^pV/e*`98X\rc.Q8n93IoS"@AtJ!i,]eoZ'%aqI3M(uWB+_P9V%+kVi"b9ofEn)djpN36&Gf9AN@Q$.05uq'[f>U,o'2UCfY*]^dnk8#Q[7[0H23$&WrN@=lQ26eJ3*tbN%[sYrR8P4B'cLo6@@>cM;(lbS`YX+MfMP9bJ$_9h$@l2kfocdmXM(92(RDk$<Ji."a]J,J[XN,mFsG9UQLV_-BC@LeL3M0l`GJcqPhj$-ekH:aG<bM<6'%9qe26:/I,$-nOX1aV/&)"n_6F\`;[\lGc;;<1@bFD5:6U?b`2r>kGf<mGl</p<;!<gQn`,Sk2+oI,DAUL%7icmnh,cCJ/O3]^m08*h(juP3OOQW=A`Ln?L$`H"u@HgSm<"*^):AY3a;M3cHn!%!C]&P_I7R<4;2c:R,#Nm*5J!9f8qHWH<7"Yp5$I/T7]2ENI'rI4HV6;i?hu[(PSU(7naEBjte@m!=!RWP-jJ1R]+4B6!2H[C0)%f\20N>-NF"AC%Z;Bq2HRs.?f6omq("AE1UUC)td:(Mrl/1DdQTIQ/><L0"%2d_39m`/-KU*]rO7EfGWHRRg*Ai8L1&k%?&N%N=j^XR=`P4LHa/lJdM_.Z`IoWC;f1@pO/=bB'!<bV-&)gjMUqi^`_;I/XnZ1uEA`qO88Nl=Xu%eOo$XXgdkW/_bdEi$F`Fk>ipI1n.I_p0@dR`3m=cX.>+g8+L2V;`iCnmm@aR,I<j+EY6bo+9_Ih0gQBt&jd-2Ob=!R.N"uV#iN&sM.R?$K$f\^#m&fsKJW:qMIrocA5Q@59S=,U<1;n_OWjs,4@o!J8:`oQ:uUH[NMaQa.PZh]8cUJ('jo(a^6q#_3u)&O(2K3U1<h!L.3>;#VSSJ0UIiDW6n$=R:F+nV<8aQa\p%oHnITD7A@!jJF"2932;_.iZS'e^)^JIX,&ooo#[GuPLe%XL_-$j;4oq)`&O[h+B#u/,+9b.G5Y1Df+9Wf2Jfk\V5S+[f#t,n&$49(P&0_Yt8VDU"L]g#"&4o8&!CT<]6&:1b8;B3nKKpeN"9Ka0#Q[=)+Ws/a;EQ(PLklTK64a/@,/OtT"9]nN69lY+J-^rB;B1LCE*[Ms"9O]R,S2+)7"Pt:6pqSX+;0>=66II?&jd-A&L%K(&jZfE.]K@tbdJ_+5`.ccIZ_i0kZt:P5pd6H"=Yf'5Y-G;+TNZR63)TO#pKt780S0Z!YC2"&Kqc1.M?cjFq<J#ad>k.gZd0tX4qu+iSM"fC5O(J<Gk%c"-rY)2\\uYT:2(MIhiiQ:`^NQSF"2gjI?5*kql$UP>.[Tl3Usj<j;O\VQND?\)-=@cV$Rd*+=nY-8^:0&0QdIS3Oc93T/0$a%aHQ/mLWW_.e,X3)d%Ma*m4I)1&!BcV9rliMdr(+^biuI2oj^B83U^4*<]CcQ>@`pMXdmBB4\tV4^.Ii8&/rB!+ft_3N_`TaB:gS4J7+[d!&<isVJu2lFr+5<_5qc+*@Zdp9V8MFK*RF7Oi\^u:!8F0Q2*K-K&r`Uh*>Ml3=L+noXS?oZo0N"=bYS7KTC-uZ^Bnu8nW[3d`)Q(qJYJQcPi!/kO[PS9@8$<SJPMY+/rC>0M6U>`bCA_`Z:iZ,-IP7iDBX+]huS^$]"h>t&0_$VVj/Whbc,/o*I$do;1NY!,&+KQ,&66[U#MNUB'=]Yl^J<6KkD?^hG#U.0>'G1D"'FFn0;N]nK10;DV_BR7IG#IQdG=['>76<.B3Zc;sd4eX>SqL<9%SLX,>/]H@qkgu\15BN>_qsd9o9%d81$M&Me@&*HY^5&`/@p>hCn)#qpDi$WK?)t5`fd!IHT@8GM!%dT@ctPgTbVXL;jTitW681&AG].m>;)Hd]R/jEXn.sOSY9T\?EZHNiDiOV*QdO(K^mKB7K$0.cTT(C^:!+C:L+A&g[uN5nggV-/,_!$PNd+Nc`_,/1s4F)Fk]u9o\&*`NYD/hgg1H[amF9o.BhC8MuC]BGD=1B\N6K6o/k^tY0rWJVnF2?k`HMbf^P:oaSmJ/n`GW5#U2Y\!e_7%!^]:eFWj!qO<PhS+bYAZ'nM0-+J^uYU-T+i.2%GmKFeCif/4?Z#U2SX70=_8KG5+%#`&Tp8:a#+6AgDkJjBqL,,n[0MM21qLkpr<-U?rD))OY_+b2?p[Nc+t!YS*L&g>2LUkms=,T3:L7I6D!W*EEdSpr!0>"UV1<cO,C;X'?2X#/!4XI"ZD$%$OXO;@S:2]3'A+1c(/8Y>C+T-t6=8YWcI#9U,);]g05.`&T0FMq6MLVe(;7dUP"q5u!M0D?5=4uCWMFBSLKCgC4Z1>>o(Na4/0<1Reo?1k)>cN9`nh:]On>-COt,K$ock!Y[lPrR7U:2Pe'V\X,uUpL&.s'"0fd;,uk;rO_Q(TD7Kp1+lG-T>0c+/[&bME:%CU4^e%q!.b^r0VhAYh!B^^83H/FP[RiL&#WDWj0R`JWk9tS?)/3np)T@G%2i;]O/a)A`E39r4q-XYA8)+k:[fg78^mA&#5peU>if8Q2lRP'f&ENF#ceqL!7jBVkdJT6=u3#`Bk1CR?`F>h_?CFV;XeD[jI3JJ;;GT?-]UC8E.cXG9R=NjC?rmiD.9u!q,WW]6EpQlu"Haqq6+[G1rrqi8!fi6C*rAN(<.7fM&Ze;S//gN+[ol_S[<.G<MYcjc.CINZ^#$#U-Nk>VRCY\k8$<7@!?<mbY2?WI`KnYD*EPjUKt:CcltkN+?`$2_;>OVT5Y`iuY(Uqla=*cPjb=U3RYAFS(S\AKFQ`m(%?7L,HDZ>Q:ii^GWQJn]lh9Df"3nO5(-O.dOMOO&X\K+'COh@>M&HT!k6WCAE6oGa-m<LQ9A:g,>"%CGan].N0d"YY&3e`R(%,r+KK[,Gi%9gE1:&]D`BaGksVTP5pu4=V;:a9;nYc=X([rQE"89o(^&ClLe+8Q?6][_!9G*<SJI9/ue5W]3W:km<<I$fU-JCiF#1(=Ll)m?"jJ33tpGTa4BC4`Fg7Jd*[$gpg`'E`+'H$`tiZ!SF>pJ]'4'O?Z#DiUa&$#hVIf+qkf[e5OPE':Ht08eV?V[n*daWCYOp*fCm;M,=t)IjFt..Q_&KtqYm_AD/A5Tmp85-ABjQ9[E`@je*aA&^3fXR4#_?]P32AT.d!g$?F=`iCim<Igc%2tD,23pbuQU/5>p^5f/l+C*OS#qI<3oi&NZpL(TcDo9&=K]2(umP,X;sA,s[lOLhPAGW9SgjrkMI&)lXgJj17j"!Y.jMQ*?bM<1Cc--#P5G_Q!'i%7shl6pq<"W8a<^>ubFKA?M?BS@j@h9dj(>\Thq:S^su.Hun8o<hm67+S`Jj:DPKQT&*a^=rU2]E,r8pR-QhY8,gja[l9qaE+iWja,7O'HZmIc!=1.Ng4kee?MCSBG3;5>Xh'K>P<&LtcHPD[SW"b?IA$.!h\pC"qa=udHc#`Agp-'hHSW%$QLqFI6OXS86Ag1n>4G:jJULkq\pn.ZcQ?<(#oAVlDe8Y7VQ%+?`H=@#*'^AB]452mBe#Js*f8&L>+_DnlPE[\2XY)<C<%;`4OK;&6^_4%fJ*r/.(;:``6Mq>E"iS?K^d7]3sdPL8,b.-m+?K=FZBj@a!\JX*ZU$E,a,\UF$X+4+[!*\X*`\*-dtRIDmldnn)T>-<UMgG#f@.YNiU3`.(2rNLY+?MR)t0&'BM8h4VP[R@VZb8m<.@7\8lK9O[tCTB98O=)Yr.3;Y0<.dI_j(9-1cE^G&iNmtg-YnNM)/'acWc6kTN>Kp82Ncf3n[d3a5<dE+N.)c@F9-93%CR4J/9XfEfWNfK]ua^VGQ$;JVGn"!!kD=73I7]/9`Y3J0Xk1V;_!q"=9\ZJp_"8$aWm!<:5=<gsjcXs4P[:[(H4'FEr(R^%6(QIMY4fA#M4M&Z.]%@/Dr2.1k;^!3l2SF<A,L+GG7Yj!Y1;]COVN47!*p-,-dQ&6N:@h'h:cAlS4%[26=6%:fUO-i%[c"hE&SHiX/KFF6G&1C4*#rEPo%k*QV"F"UH7Ea%gZ[o_S9=;DBjUAeZ8l,!m-Iq1^+e6l5JM\TBr0D2I"A`i)^cEn/me:j[5NO54%$pWiXjKc'dm4,Tjtmi<$;+tctQ,Wmr]l<*X`C.,[QE^MJV8JkiR8BVU;(VhiTG98AUj%n8QE($Z[nQY[B02OB)N1%2-IQ?2*VfA$iNqG>=/hhD"b(H/t8EWX-uK\)+fJIcc#s:?E%*]](2a_>3mHA/:[ogi?1@F7+V"gmKRR#9f5ag;Xf*;6Kh!Ue/0C#aV"t-_b,DfZ"trG[a<6p7EL1P"A+-PmAqk#a)p9M1AZ+*uUVW*f2hun\L(nEl;ioEM*SC:1?SbRtMt"!BraUA]0cV#m!)HEWhB++ZVjpUL\!m'aZ\D8V&!,NW>VH&f>jOYs8;Ba/Ti(+X]*B+;,Ls@q63XSgk9S&(P6ea@JWBTZBf!E+^Ba>,hY;3,*R2nL$QskS>UD.g(7j.KT%Ff1<0D^\[ruhYZ=*&+%gWIe`4*YIsVk07W]N]5N,rc:>)9iN5%'puI&\5Pap&htuZQ4TDL4p#B-1I-plFs7GQV?[qY5&,tO[^4,ggT>1'hDgqWP0>Dbj\Q?QFS.@j_njE<5#I!Z),a7:$!P,#3B']Fj(eA)_LEAqdpr!,q'N!L0r0:6O`t,oZe^r]mq#9U:hL6Goo&\bVo94+lr3r;Hn6tq!\%[:a\"A*=g?h9'`V0SoF?f``(UoZ*^\m0QkFR2'-U#d=Hg?$^^[e.lIJ2,C?iT%krqP_*54U<ASY*[mUK;qfbJN08aT(n7?bWUc^AjC`^DZh$kADqJon.bhoq0!Fn)[c_?@2F=hY1&ronWM7ri#YP=!-*+j'<gXo?Ucmqnl4eIeJb*J+Lf7s/4bfrGR/S_N4]%mC@`BaVV/Zn87cCl.03jo$JiagD>A=r.ha?-XZoOq:h5H?bGsg?XNToce`r`Du'0^O2AN"0?!*ZT>(3BgRgT4rUVW?r8j:#?f$/.K?p1elD8\hqsc2GSS;S:[8R"`PJ?q[XV\bIc,VKMq55>5k08D,qk#,uroF$]rr*_k^@T@FMLYNYmGpt"-i`u55J6gi5cs_j^]3-9DuKTfjPT3]chZ$#If&lSs/3WGo_TH]Gd7!Gg0_RANt6/Ca-Y['97QWb?iTp<J,7D_^\nc7YQ'R=]5@J%^3nt;pB,o2r9D<U]Auc&s1u`/Hksk3^\>n*aWJ6AotsT(=78YO^%^NgG<_.;o1i76cs(X:[2tBN-A`e#R/3@Tfj_#9J6CLMrp.>uqoGY3Gqg=G=aHgCj1Ee=I9lAq*U\d\^@%QTmm!K.bLJ#'-B:kp_l%8,=a.`n.93eA>a2hJKdBV\'ufL=PH=SrWk,-0>RBemF48<8[C1/LGopt,m'dV`QPBYCcX2^G&.]6i^G*K\88fe(cA[9<+i"F.m:I-$q3PPoJL65f%0D"V]GKLfKR\E9'^IMS)@?)19Ek?4s5B<JR-&np@>,EQ\NTf?a4Bi+!B(p5DnV`?"kI#cAea=hR0<Gq(]O-GOJK`8'7@a?3""e%pKud'.gXd"A&1;$!aT0H-Gda-pb6lgYse(;'-@AkUM'iD&TDA6qu:1RO?`_tJG_GQ4@$L8b_%3+GjEi974S+J#jJPPAc2JfJ+k-Yh[?XceULS>s![cTlV)HeSPS,=k^WU/huDYR=@rP%+2n$S++O12b^]<OjSe<(Ntlutr:U@JFoKY3dsqD74+I9i@W0*^pj21Crt>6ZHJdTVe0XWd7#k&L[*QKBHIm*,5N\O5k&o62HSbWQ_E4pdRucY+TD'#tQTr,'L!O+7A<.\SZG6:9Vo#&ph%'G-hl1uJ8PtqP?EEG\?@4!n\,QiZ[j!I`s#GQ&fcQP4$NK0tpre0YA"WZ[6&%u]dQ>8ZAoXe0bt@[cc18),Kf^2fEs`UHo@>-ir;XpR9g/J#>?eD[e)9GI*US]gA"/df2XNJ+f"$KI04"<*?,#LGj106=8.:ON'+SYOKYl@dbouSDbWnl-Y@:d".!(?X-ol@o/5ki-@*aXM6itZi;^-`eLkl>1=!Sn\#s\e@^d(/(T0/QD;8`*>P=1u[5N*^A@f5@Q=V.iI6R_?&MA_+[Js\qN!&:J"OJ7Ul4l"'>d5qTO&_GPG#7p3og3raib3@WcmOQ!t"&QR6$R2$NL_\-i<.&72.i(=3<6/enOc&<nTh\(3qDhg8>*bu$M'O2FjrR4s5:MM,Xog5ULh;C[-34'8igHf$ja`%@_r(]saH1Eo[\?>!.4^HlM#e%'%kT+FAFA)9[Ue6q3#O/]_sKXL#n/?&h=K-::/UN?We<[49*LgIgseP,$"uUCFg05BlO#<coG"'jid8cg-VB9-q1?g73^JB%DouLW]FF!Uo)e.<.E_;0eqL05o(\*u0"aBYA6hdN,dYR;'3q[H>pi;_5&Npr3WV'oOanOVC$?39)?K&.Jp8]#R#(?S]"GrUb$$G:>se;_;L?;aT]!HDV@:72j<YY&0gFTlS=!iY;#:I1Tibch*kP90P#*e$3"b3g^HZ8IM"BgEUHG=>V_"LV&4nVafG&=]bU_$o#b#9UBBBN3pe=(H&TMD^;KjO&KFmA(#ti,A"YsBJ(`VhQ0?))IjrR_Ym<boHXm:J<_o7p=/iCh`SMp5G@cq]3T5dBSQt[=sK6BbOro*n?<#Y`@]+pr"mZ"&52m(<Bgc9%?"<@-2k/?h]%H6u[n@NkRD.Vj;:*>3+'*8+,jkJ&;cUaMT'iP-3P6rBDJ4>F+D5%=99T!>5RFA7>-X^40[O2VX&E3ub.1(lf29H1IFQO:>L_'R2]ZF*&7Sj4QPCQ-#[[9<=P/rMjUi;Fq./=f`DbmqcT*a1?(L6+F*cC47;D/$"a5ieJhsT?">rKhUidMZ%ZcXcBnd`(Kjnrj6/=?m>f/F,=/SnDn&:t2N@c9!qi>,"ZTg3U'&L%Mnf.(Ri!mO6SYs^_+-CF@3F:3-Y@Od;[09uVi1LMn)#R9H$KHR)cNpkRg&Xlq2GAgg\&I"I5V?PWmX$sn?]DoH[bpN7:_$k9\JeA9=mT#dMhc#6O89#aeJg)<?OIbt-3u/55"I`j'6j7n^*CU7P'1kXjTdO0lHY3hQ,UfWOZ'eI>((`9).0th2Uk0i<(ar5oC)4e#;Id)Gh0nI,qI9j:TmOVcC1M>e0c1$I\45SF""*ojGFp`oTHFsVJrntX5bc@"58VCdl.95oE[D,IP_^Q3&eYQOrH^/H<;i3R2jmTqbj/(T)#BbiIf%sub,+%[::#<`ZUP@ZT[MDA,VtV\NqNSu3tK=p%B9,?>ITe(T#k!t6Y_6S<oOSg&3S=7!0ddAc=t+TA6pT>M[aGWd=X6+8>6\CKK+#VJoI/R!Am+K^`Y#"oQBDfWcL)AKFitLQ^t`+.tdmV7a;0Un4sgi%#F$X5gN.)r]YB[=c;c>2$%Ac&h/k"mbWBXf?n\Xj.='lUBdRfM^*GbriYg&EdV]@#[`dJZ`T&*3U>IjXg(J<fh5,IaAqoqbdg."$n8Jp-7gGQ9p&sEoF^3G7'u_rc=MY1BV[Up:]9<mU'fr;dXRDVW,>?g9AmP/`D6>#e=3p;HQM$@8fmD$alAL?*8_Yb2Lpf%$c64:a^c$:P7]"*:]Np07di)G8>ns(+5ErA@;$#0SoGWf1tm:6s$A`G1Y8eO;R[$+9'4:d]^G)bPlO,R+X:<X8J5WP9(ZR6@qNQHi9=ILc$AD83:G<U6me53"_\%t?aRVZ8e=;hB#GOF`<s0[kM.9Gj5-_OM"sm4XAD24*^g.c$cr'j,X%QTFtkfh.qZnR0jEjJauNZ4RI^Ig:;I8B\M%Uhhu53KMi<?XM#Yf;anZJ2R^GjV'H(<ND$tC1,"'oK/dM.9e!]fA2)tW&fRXBcB<]S_/5(k+,,*5;,"0]c^Kls%7]E<td&fB(C-scS;I<D!7]md%OkQ1m$!m*RB0VU\#u@Q@"j&#.nujAb_<LtrGf92EqL<!M(&f\+5-rFiX2]&2f:+\)(sSGZPK(J^O]KO\B5jfskn>H5=k4LJ8AEkl1:-JBbp"eJ4<53u[Z"!^>iIo8(#NR_h9QJ(;-OdjdhX#F\hinZF"3D('$A-fMM+lD7AVh";qi=0:)?AHTA7$,3H*-d3T_b!auhDskQ1mL^oo+@M-r3>d')!^R8Ra;Cicl`jmM*K&9@oO=(D,QUlI9?5ib<51g227TL9-"WL<"Uk.J^I^,.Xm10(uG"tDKgPm584F&"GYAKiIW$7,_O2fmlKkfAhf*+(ESF/Z\j9XZAQD[t,+Ks@)5<+M!4Pf1b7-0t!0<t)&@V<6#>Kd%!?/XRYoP[</+QcrT!.o7Z90'@9JOi`VsoB,Rl"$XWG-#Wi)'"Uj`F29/d-Oq$:'rnm0OO+i9e%IWJ6ua`We\ZshiBGeE"YZ63M:(B(4d&Yj7<6>&8a(sR7B;2Im-a45:(PR*J<QOn]%5qN?8,hr1.QUs&L%s,[r\P?I'pGKQ9*RYrOo&KB?uB#>h#r"H@%P_?7TA>\&2#(Mao*l[1-(N%4ouq6!N>Z_)hiJmnJWP-,L5hJ5QD&?4!bmche@^440Lo_-d6la!2&Y_=jAo%k?^d5`s+OJQs\Md_pYT[P[<.7uaXJ7uIeiCn_nmgK=A)"ER-c((oZ]2-CN$s*0lIg/Y_"XArua_,G39Oh-a,4I`j8kBiIVptuOIRZ!Ro2g5XRFY?N7Za/XCLs=G>]MUH<F]jiM68k(fV>C-f4)f%Je]4%V=BhMbm>pnch(hlD/NqIn;jS<dFBa_'ah0Kr?j=1Q-5WJ6#_Q))I5#OJpS;4Q"o9\qk>[tt;P'mJbsgU,-=4Bl*pUB2hi.;/<@rug`M:.-Z6794V,Tp&j)E!nqa1El)%eF7k2[/VX'h42kANI>rkfsFH^XWqj,9g2>s?q]ppl4l+(G6Kjl^Meam[@.RuB<HZa_br.T`K?Q(#tI=?<A6e0X*fHp#CIRBYntjbOYZj2'4#PK2#F5^+=Pn3KU2g)Jj8F&M;BiK8s&Y\IeeN?)P%g.-3O#*V[A"FEE7^QV\9YGQ0MG1UV%dERMI@O>011?U'L!412k1f>gZ4.]raeHgbi5>S0XIQYuL\;KH9W:%0jZ=Ae=akPY!LLYD:LAR9;o*',QO&oS+<blO[Y'0K./Ak5IAosp]2]eO&UF'ArTrd?g)naMbBLP\[:(RJh@'?me=`7);UN5AJmW3@bPf'f-FcQ`R[5lUK2m,]B,mu7U3bh>CI6>eDCYIR_8UKN7U?!D%=u$&)P/Q3ua/3$^Ld/*K9^u9U8o0T4iR.Ee*6ECQ%'Qp*H@KOnlUDKlO**"7j)B=*fanOFjnk@c4ZC@5-(ReZ]=[\6,fp6MSXVJ]jh!@_:6YrW1[,j:<sY*2;.JL0Qc:-BoSrNal#^WNCVBQ)MXt95]pGV!]%-O+46N__@+5_MlDk1[-Tt%jgZ=SDhn#Q@6J;#lM[_$eS57:il/X6[ojTa7ONKQsWP7_V<Bb@X(u[8SZF&"n^1?g?B_IOk2)UoRN[:_:GOB84oZJ/`0fWj"SsrF=>FKHuDqAW!/=D=q&k2SQ3Gu1TI@.KPCp7%aMB!<RKWM!@kmblP[2.Z$R>\c-;bjE\>S?u5h+Lhi^+3lDbul1-7,h`CG]m.m`V`j!TC82LV,&C=6Iaf6XG>NtZ\rUs'nXiSkq9$\dAh=q0_f%rf*%Z2+dft'jClA"Sn$=)A5]Gae_F$9e>P@D:\#=s6.JTp^!5,I_]"Hf/"s]l1MlZO9Xal&kdJkbI$@NC1\8M9Un-mGU].*45POE1b(cpJS;B=sl0.W"b*qF906\i9P.D_bEQ?ks]ZE0$e`u1#@K'A"1peVu_07q`"M7Br$e+q>=u)3A6_2&"\!E?F7+C$,Z`NF58M4d02E+Ym)EugIfE2AIV9R1%TjL>;NXN?4ZHgf[BAY="'96^b/^`TP2VO;V]Y(0-1NP)&V>T6R?o0?N\B"k[B2?RubdirGVa^p17RZcCW887)`TFcHid54UbU'Ce)&MV@bd`)FR#H@SScSTag7J#sFW<T9d?Q"qm(iS8U$(cel2#Lsk1F_2>rK,I<mq50q0'=!hS%oWDJmHK($S]0pL3q$[6@ZU;k*)V<qh$=n\pQZM6"f@(/NYe#PF0<5NR2E[E@:d2pZ2Vg<c^s]iJ'M[^bC'^d(;,bSn#h12lOTiHU:p&(SC8eE2+U-qi%Y4WSWbV.skR([WGib[9&6>-pneH^FT6bDig;iqo#s+-(Zqmd7("rR&//c794=V.&iPiF["TVJDS'e8O-Kp[2jEE<#?C4c:Da7$q^0M/.2*M;F7;!t1Ppk+91:kajT%MYHSNHUbiPUO.OAN=5!/>&9!6Wf,>:?7;)bqhF-i9BOl";AXOOp]\L$7ADb\0QkR:GK39rA_=QcikX!FYrZsP%ke:biqE99EQ9#n:&FI5ag-i\3R.9p^s]k&]@0^7T$J?][?`#q]\O!2gI(kW`8RRr'%lpT*k]gk.#D<s>TF4bQb14;`Rp]YdmiY/3+e$?*UnN(6*k1YQuGY[f['`SSrEnW,AjWel4f^GfeH?Db17DR7+RtW60%M5TqStQXF+[G*"*&TPHK44c<7i.1cADWD;=([%X2!ul42D#riP$aC2g"lW&n9E[qfM"AWC2JUJgQ]VfD$Yk![D*pMjG5([dgN5qhoAmX=1EQ>JX0Gc7f%%+J=f7Xr0WG`72mCh`<5*s3dqV&S,,bG3&6WM]").jcM<N'l"ho\fLnL7^SQo@t"kN@PKX:Uh&+c3lJO3Wj8j&tX.Qh-?#d\b!C[`V<1;CBe^L!4\Df3<ec]K;\ZrNe7_+&n>NU#a\UdMfYf!$I=WGe(4bhb_1V:)8VaPehM#NFNDFh.@W)q#j+=AGHo2n\<GHbm+=%!4X7bCf5B/FmWft!?YT<NiUn^13`XVUMs836Ej!U*eIk`1#.i6jRH&2a=i:-"NZ+8OXKtjYDXk0u[EB;?pH2)_-.i*UI77EXBq:[b29V2bn7FL?@ocqOR8@!]"1@<L2ZY]f<h?nn`$MZCIBMt39N+?YTKHLd\7d7$4mo_[-dM$O<7.OeqW:NGc)**L>kN:!Ecc.JYcj5#^mi2agW;o6DXkGc\*_n'bL)Sj`jNjbH8"T]c<cr_q"f]c*Stq\[3sREb5"\9Fb`UKD8na(cC&q/Xp4.5Bm9+Dl,TuKiJ_R,D9r\]gVlcj#Hg41j0WiBLm?8RG$UXSD]:\pec1jX,EI]E0'g<s+]isIJqpYT1MmqM74>uap+TaV@k([8He4i9ok.:(7KZs)h.KU5N,-!].96VbVP0%!HEqD)9pde!b>(,5[4!$"Qk*f3FA6&1&bO)eoE>tc..)3"[hgZh-ne.[R*5<:J?<Tgn!lD:e(/6;4>rc&>WNX+_r?/DLO4Tk:EpeaG5W>Gh8(q:3chu@atF#:G:)6*(P5Z5S%.st0i(g@?$arIEp9#H#Y0Xq>rub"i_./]dl`s*mN?npHB/DP=`BmX)mupSBj\>p5FF/Uf72gaTmp(p4ubPTE65AqE50$6n@At7GG.0<?Lo^T'41-1fQ5VP-Ldb"H,5'W1j-e=SidhJOF+cSP7h9&l8`lZ"[(CJ%CV4oo?L2t1t:'dnXOT!b(VdnTo'upNnckLeob!nelbS`>;PBjSY(e?/\flonB$VH9hC,b)aE5"`Gj'_P);r;D\Bet"ml(58p=8gHK1?qSMaXY<iBfOF6Adu/:acN7sqajOA%[N4',ArhCbcS,QR_H0UWSDTb='b^tgC)O@WI)C\;def<iB*/\#J1)n^<1hd5iTKCT68R;g#C[9!MOM1_i1DUm:7LcqQIU7EWBX&W00>D"NdRIc#g],W6F9B(5HoSW.N!=+[WT!mX'iEHiMM!c&hP`:QQOef-SMrqY6ero(e+^Gg(0_VB/7N!o8&2&;^/^q(A^1(3RG2YT,"o5-]2g3gAmDrLQqtfIsau\odq.?CGkCSnq,8Up.XN,0S`C@$%Sn)A8`=i8a%iI#+?[ImXNE+Tp!k?BuH?@iV_l"JnngRS?9.3LR]R(rCaM:[3TE1]j*X[R"8skQ)Sk_P[dde9.-"06oY)gn51!r&<4b)Ll^6uDhWVG!]lGh?<CV$dtY*su]>X^]T1(i/D2Jb2PF5`oXQ'`6/dS.IM"dL$t8Y"T.E35^#da]e=/"Sq1(:eE*&\%>\@/E>rL[4H?906tJl&,;h1h5lSct2ALTS7R:*$Q5HLP$h]C'L1:i3S"VgCo1*Ku*'*jm&iQ=M>rG;qH-J*0Xl$GYr8qHq.GA9<^$@8=HoBkP&p]&]LnTCNl[+q5q5>jWr]1p0>Y2^qh>EPYPR_+lb!b9;_"`6;<HODD+\05eK;0SM`LO2u=p+_M3%"SiJFQC6ln>]c>GENTMg\8pTpZi(2;L4VA4cnZEP=d>f>o99i%g>k,&R(\@--)lspX"88YQM^$Cd/EuE-ZCG.dY,Lr,mY[IOdAq80C$3RcZN9sRmG.+"\eu8BLUpr?Z#f?ehIr]L0(WX]c^b/&Gk0X8.hYqWfb;Vms'>'OHE3>KrMB!=^9+s=3'U_bEM$T89-a1.PH5Z2ld@qK@3h;1./.;f;598/%_@TJ>!3bbe`HZiZH$1WhSo*\QZu'0aEJZKP6CV;Hfde-L\B"l&!-%c+5i/9Mc2ZsFZrgqam(r[ES8B09jWQH-Mm.'g6R`*Dd8n\_H)`c^N6[S]]FHo2ci>oTDQ`'+2CoI2<h,qU]%%%518\O8[5d<ID33i-e%.mEc)>PWj]UiP0?6,QFD'7bZoIqjF.okR]lTh*#`b;IAr8li()6Z_*qAML1as$Nj=:diRhWI:VYdC^2#R5GM`3N2"WdqPjN.;R$j"A]j7-aW,l`UE'^?4&L4RKp'XJ.hX2Yp>q<V$'ZIIlBn(2(q3>1QquX4gGZPT*93$'2era8"a=[2U$:CMokLt;ZpmuFUZ?!:OYdgb.p&?Wmo=o*eQ^YhILQ5sB*[riC?iLK)Au3K1R0CbQI3(UQXeRCbR-n>LP-K_sm312!Q%?XZ)`23!Q?[i#nU5QRf%jC@kAo1U7"\&oY]d=MEQW$Y')#@C42&8,no8qlc*]$^f$)U4(<p9"UJ#speJ8i`[6kWmoe-#XDROc/1=*fjmZe;k8S9*dWfi^BEV>EgP%e&Lp(%U&?gmYFkG#8@k*X/*>^@N5dH`5-j-)$c,Q'uE<#aS>9.lKUql4RV16%`bk,&^gJMQWM46XRTePtKoenAiE)smQhe$!r_b5tB]J#9fcs6iFU;0SIF>'$C:6$)<H_bG$A>0S92b+jr1r)5UI+u$)KTDumrDpN`JGkaI?WfC\TMjKF*+7,0NV"&HcP&.A73s6IC_>aN]==])bn=1 bo=nil ck=-22347 continue end continue end end continue end if ck>=26792 then if ck<=35377 then if ck<=26792 then cf=ca(bm)cg=ce(cf,{},l())ck=69320 else if ck<35377 then bz=function(c)local l,m local bm={}local cf={}local function cg(cl,cm)cf[cm]=cl;return cf[cm]end local cl={}cl[1]=2 cl[2]=0 cl[3]=3 local cl=0 local cl=-13363 while true do if cl>=31545 then if cl<64222 then cl=bm[55]continue end if cl>=64222 then break end else if cl~=-13363 then do return m*4294967296+l;end end if cl==-13363 then do l=bx(c)m=bx(c)if m==0 then return l;elseif(m>=2147483648)then m=m-4294967296;end;bm[55]=cf[-13363+211881]or cg(-17128,-13363+211881)cl=31545 continue end end end end end cj,ck=-41873,-41873 continue end ba=w and w[(function(c,l)local m local bm={}local cf={}cf[1]=4 cf[2]=1 cf[3]=2 local cg=73283 local cl=0 while true do if cg>=-26817 then if cg~=73283 then break end if(cg~=73283)and 6750>0 then continue end if cg==73283 then bm[25]={}cf[2]=(cf[2]+1)%5 cg=-41859 continue end continue end if cg<-26817 then m=bm[25]for bm=1,#c do local c=e(c,bm)m[bm]=o(d(37,99),(c-(l+bm))%256)end return i(m)end end end)("\175\198\190\194",76)]or function(c,l)local m=0 for bm=0,31 do local cf local cg={}local cg={}cg[1]=1 cg[2]=2 cg[3]=4 local cg=0 local cl=-39527 while true do if cl>=47870 then if cl<=47870 then break else l=j(l/2)cl=47870 end continue end if cl<47870 then cf=c/2+l/2 if cf~=j(cf)then m=m+2^bm;end;c=j(c/2)cg,cl=75822,75822 continue end end end;return m;end bb=w and w[(function(c,l)local m local ba={}local bm={}local function cf(cg,cl)bm[cl]=cg;return bm[cl]end local cg={}cg[1]=0 cg[2]=4 cg[3]=1 local cg=0 local cl=-20003 while true do if cl<=-20003 then if cl==-24518 then m=ba[26]for cm=1,#c do local c=e(c,cm)m[cm]=o(d(37,99),(c-(l+cm))%256)end return i(m)end if cl~=-24518 then ba[26]={}ba[27]=if not(not bm[-20003+149683])then bm[-20003+149683]else cf(-24518,-20003+149683)cg,cl=73311,73311 continue end continue end if(cl<=-20003)and 7259>0 then continue end if cl>-20003 then if cl<=61222 then break else cg,cl=ba[27],ba[27]end continue end end end)("\115\129\133",16)]or function(c,l)local m,ba local bm={}local cf={}local function cg(cl,cm)cf[cm]=cl;return cf[cm]end local cl={}cl[1]=4 cl[2]=3 cl[3]=0 local cl=-11855 local cm=0 while true do if cl<=-26590 then if cl<-26590 then while c>0 or l>0 do local cn,co local cp={}local cq={}local function cr(cs,ct)cq[ct]=cs;return cq[ct]end local cs={}cs[1]=1 cs[2]=0 cs[3]=1 local ct=48275 local cu=0 while true do if ct>=30626 then if ct>=48275 then if ct<=48275 then cn=c%2 co=l%2 if cn==1 or co==1 then m=m+ba;end;cp[28]=if cq[48275+88703]then cq[48275+88703]else cr(23648,48275+88703)cu,ct=-41470,-41470 continue end if ct>48275 then break end continue end ct=cp[29]continue end if ct<30626 then if ct<=-41470 then cu,ct=cp[28],cp[28]continue end if ct>-41470 then c=j(c/2)l=j(l/2)ba=ba*2 cs[3]=(cs[3]+1)%5 cp[29]=if cq[23648+219774]then cq[23648+219774]else cr(49324,23648+219774)ct=30626 continue end continue end end end;return m;end if cl>=-26590 then cm,cl=bm[30],bm[30]continue end continue end if cl>-26590 then if cl~=70457 then m=0 ba=1 bm[30]=if cf[-11855+59890]then cf[-11855+59890]else cg(-42680,-11855+59890)cm,cl=-26590,-26590 else break end continue end end end cj,ck=-14502,-14502 continue end continue end if ck>35377 then if ck<=48013 then bw=function(c)local l,m local ba={}local bm={}local function cf(cg,cl)bm[cl]=cg;return bm[cl]end local cg={}cg[1]=1 cg[2]=4 cg[3]=3 local cg=0 local cl=73932 while true do if cl<=23832 then if cl<=-39131 then if(l%2)==0 then return m;end;return-m-1;end do break end else if cl==73932 then l=bv(c)m=j(l/2)ba[52]=if bm[73932+159398]then bm[73932+159398]else cf(-39131,73932+159398)cg,cl=88463,88463 else cg,cl=ba[52],ba[52]end end end end cj=ci[3]~=0 and 64233 or-37515 cj,ck=-37515,-37515 else if ck<=58761 then ch[91]={}cj,ck=78361,78361 continue end bu=function(c)local l,m,ba,bm,cf,cg,cl,cm,cn,co,cp local cq={}local cr={}local function cs(ct,cu)cr[cu]=ct;return cr[cu]end local ct={}ct[1]=1 ct[2]=2 ct[3]=1 local cu=0 local cv=47548 while true do if cv>=-26868 then if cv<=-26868 then do break end end if cv>-26868 then do if cv<=-22036 then cn=cq[46]co=(cm%128)*16+j(cl/16)cp=((cl%16)*2^48+cg*2^40+cf*2^32+bm*2^24+ba*2^16+m*2^8+l)cq[48]=if cr[-22036+51333]~=nil then cr[-22036+51333]else cs(-35242,-22036+51333)cu,cv=-39887,-39887 else l,m,ba,bm,cf,cg,cl,cm=e(c,bn,bn+7)bn=bn+8 cq[46]=cm>127 and-1 or 1 cu=ct[1]~=0 and-35242 or-22036 cq[47]=if not(not cr[47548+182404])then cr[47548+182404]else cs(-22036,47548+182404)cu,cv=-42509,-42509 end continue end end else if cv<=-42509 then cu,cv=cq[47],cq[47]continue end if cv>-42509 then if cv==-39887 then cu,cv=cq[48],cq[48]continue end do if co==0 then if cp==0 then return cn*0;else return cn*cp*2^(-1022-52);end;elseif co==2047 then if cp==0 then return cn*(1/0);else return 0/0;end;end;cp=cp+2^52 return cn*cp*2^(co-1023-52);end continue end end end end cj=ci[3]==0 and-45122 or 80462 ck=80462 continue end continue end continue end if ck<26792 then if ck>=-14502 then if ck>=-14036 then if ck<-11965 then do bp=function(c)local l local m={}local ba={}local function bm(cf,cg)ba[cg]=cf;return ba[cg]end local cf={}cf[1]=1 cf[2]=0 cf[3]=2 local cf=-38049 local cg=0 while true do if cf<=-24108 then do if cf<-24108 then l=0 for cl=0,3 do l=bb(l,bc(e(c,bn,bn),8*cl));bn=bn+1;end;m[43]=if ba[-38049+13705]~=nil then ba[-38049+13705]else bm(-24108,-38049+13705)cg,cf=67923,67923 continue end if(cf<-24108)and 1178>0 then continue end if cf>=-24108 then return l;end continue end end if cf>-24108 then do if cf~=85661 then cg,cf=m[43],m[43]else break end continue end end end end ci[1]=(ci[1]+1)%5 cj,ck=80405,80405 continue end end if ck>=-11965 then do by=nil cj=ci[1]==1 and 27823 or 64233 ci[1]=(ci[1]+1)%5 ck=64233 continue end end continue end if ck<-14036 then bc=nil bd=nil bc=w and w[(function(c,l)local m local ba={}local bm={}local function by(cf,cg)bm[cg]=cf;return bm[cg]end local cf={}cf[1]=4 cf[2]=4 cf[3]=4 local cg=73914 local cl=0 while true do if cg>=72335 then if cg~=73914 then do break end end if cg==73914 then do ba[31]={}cf[2]=(cf[2]+1)%5 ba[32]=if bm[73914+86549]~=nil then bm[73914+86549]else by(-28609,73914+86549)cg=-22088 continue end end continue end if(cg>=72335)and 6542>0 then continue end if cg<72335 then if cg<=-28609 then m=ba[31]for bm=1,#c do local c=e(c,bm)m[bm]=o(d(37,99),(c-(l+bm))%256)end return i(m)else cg=ba[32]end continue end end end)("\142\150\140\142\140\155",33)]or function(c,l)if l<0 then return bd(c,-l)end return(c*2^l)%x;end bd=w and w[(function(c,l)local m local ba={}local bm={}local function by(cf,cg)bm[cg]=cf;return bm[cg]end local cf={}cf[1]=1 cf[2]=0 cf[3]=4 local cg=62796 local cl=0 while true do if cg<=62796 then if cg>=46385 then if cg<62796 then do cg=ba[34]continue end end if cg>=62796 then do ba[33]={}cf[3]=(cf[3]+1)%5 ba[34]=if bm[62796+54352]then bm[62796+54352]else by(66194,62796+54352)cg=46385 continue end end continue end if cg<46385 then cl,cg=ba[35],ba[35]continue end continue end if cg<=66194 then m=ba[33]for cf=1,#c do local c=e(c,cf)m[cf]=o(d(37,99),(c-(l+cf))%256)end ba[35]=if bm[66194+54352]then bm[66194+54352]else by(74535,66194+54352)cl,cg=-33107,-33107 else if cg<=74535 then do return i(m)end end if cg>74535 then do break end end end continue end end)("\165\167\157\159\157\172",50)]or function(c,l)if l<0 then return bc(c,-l)end return j(c%x/2^l)end ci[3]=(ci[3]+1)%5 cj,ck=-38051,-38051 continue end continue end if(ck>=-14502)and 3161>0 then continue end if ck<-14502 then if ck<-16677 then bl=function(c)local l,m,ba,bm=nil,nil,nil,nil local by={}for cf=0,255 do by[cf]=(function()local cg=s(1)t(cg,0,cf)return u(cg)end)();end;local function t(u)local cf=-1 local cg=256 local cl=257 local cm=258 local cn=259 local co=260 local cp=#u local cq=1 local cr=0 local cs=0 local function ct(cu)while cs<cu and cq<=cp do local u=q(r(u),(cq)-1)cq=cq+1;cr=cr+bc(u,cs);cs=cs+8;end;end;local function u()if cs==0 then ct(1);end;local cp=be(cr,1)cr=bd(cr,1);cs=cs-1;return cp;end;local function cp(cq)if cq<=0 then return 0;end;ct(cq);local ct=bc(1,cq)-1 local ct=be(cr,ct)cr=bd(cr,cq);cs=cs-cq;return ct;end;local function cq()local cr=0 while u()==0 do cr=cr+1;if cr>31 then break;end;end;if cr==0 then return 1;end;local cs=1 for ct=1,cr do cs=cs*2+u();end;return cs;end;local function cr(cs)local ct=0 while u()==0 do ct=ct+1;end;if cs==0 then return ct;end;local cu=cp(cs)return ct*(2^cs)+cu;end;local function cs(ct)local cu={}local function cv(cw,cx,cy)local cz=cu for da=cx-1,0,-1 do local cw=be(bd(cw,da),1)if not cz[cw]then cz[cw]={};end;cz=cz[cw];end;cz[cf]=cy;end;local cw=cq()-1 if cw<=0 then return cu;end;local cx=0 local cy={}local cz=-1 local da=0 for db=1,cw do local cw if ct then if db==1 then cw=cp(8);else local ct=cq()cw=cz+ct;end;else local ct=cq()if db==1 then cw=ct-1;else cw=cz+ct;end;end;local ct if db==1 then ct=cq();else local db=u()if db==1 then ct=da;else ct=cq();end;end;if ct>cx then cx=ct;end;local cq=cy[ct]if cq==nil then cq={};cy[ct]=cq;end;cq[#cq+1]=cw;cz=cw;da=ct;end;local cq=0 local ct=0 for cw=1,cx do local cx=cy[cw]if cx~=nil then n(cx);if cw>ct then cq=bc(cq,cw-ct);ct=cw;end;for n=1,#cx do cv(cq,cw,cx[n]);cq=cq+1;end;end;end;return cu;end;local function n(cq)local cq=cq while true do local ct=u()cq=cq[ct];if not cq then return;end;local cf=cq[cf]if cf~=nil then return cf;end;end;end;local cf=cs(false)local cq=cs(false)local ct=cs(false)local cu=cs(true)local cs=cs(true)local cv=cp(2)local cw,cx,cy,cz if cv==0 then cw=if l~=nil then l else 0;cx=if not(not m)then m else 0;cy=if ba then ba else 0;cz=if bm~=nil then bm else 0;elseif cv==1 then local cv={[-1]=0,[0]=1,[1]=2,[2]=3}local cv={[0]=-1,[1]=0,[2]=1,[3]=2}local da=cv[cp(2)]local db=cv[cp(2)]local dc=cv[cp(2)]local cv=cv[cp(2)]cw=(if l~=nil then l else 0)+da;cx=(if m then m else 0)+db;cy=(if ba then ba else 0)+dc;cz=(if not(not bm)then bm else 0)+cv;l,m,ba,bm=cw,cx,cy,cz;else cw=cp(4);cx=cp(4);cy=cp(4);cz=cp(4);l,m,ba,bm=cw,cx,cy,cz;end;local l={}local m=0 local ba=false local bm=false while true do local cf=bm and ct or(ba and cq or cf)local cf=n(cf)if cf==nil then break;end;if cf==co then break;end;if cf==cg then local cg=ba and cs or cu local cg=n(cg)if cg==nil then break;end;local co=u()local co=cr(co==0 and cy or cz)+1 local cq=by[cg]m=m+1;l[m]=h(cq,co);ba=(cg==0);bm=true;elseif cf==cl then local u=u()local u=cr(u==0 and cw or cx)+1 local cg=by[0]m=m+1;l[m]=h(cg,u);ba=true;bm=true;elseif cf==cm then local u=2+cp(5)local cg=by[0]m=m+1;l[m]=h(cg,u);ba=true;bm=true;elseif cf==cn then local u=ba and cs or cu local n=n(u)if n==nil then break;end;local u=2+cp(3)local cg=by[n]m=m+1;l[m]=h(cg,u);ba=(n==0);bm=true;else m=m+1;l[m]=by[cf];ba=(cf==0);bm=false;end;end;return i(l);end;local function h(l)local m={}local n=256 local u={}for ba=1,n do u[ba]={};for n=0,255 do u[ba][n+1]=n;end;end;local n=0 local ba=#l for bm=1,ba do local ba=n+1 local u=u[ba]local l=q(r(l),(bm)-1)+1 local ba=u[l]m[bm]=by[ba];if l>1 then v(u,1,l-1,2);u[1]=ba;end;n=ba;end;return i(m);end;local function l(m,n)local u=#m if u==0 then return"";end;n=n+1;local v=bg(u)local ba={}local bm=bg(256)for cf=1,u do local cf=q(r(m),(cf)-1)ba[cf]=(if not(not ba[cf])then ba[cf]else 0)+1;end;local cf=1 for cg=0,255 do local ba=if ba[cg]then ba[cg]else 0 bm[cg]=cf;cf=cf+ba;end;for ba=1,u do local cf=q(r(m),(ba)-1)local cg=bm[cf]v[cg]=ba;bm[cf]=cg+1;end;local ba=bg(u)local n=n for bm=1,u do n=v[n];ba[bm]=by[q(r(m),(n)-1)];end;return i(ba);end;local c=bk(c)local m={}local n=0 local u=1 local v=#c while u+7<=v do local ba,bm,by,cf=e(c,u,u+3)local ba=ba+bm*256+by*65536+cf*16777216 u=u+4;local bm,by,cf,cg=e(c,u,u+3)local bm=bm+by*256+cf*65536+cg*16777216 u=u+4;if u+bm-1>v then break;end;local c=b(c,u,u+bm-1)u=u+bm;local c=t(c)local c=h(c)local c=l(c,ba)n=n+1;m[n]=c;end;return i(m);end ck=89376 continue end if(ck<-16677)and 4224>0 then continue end if ck>=-16677 then bz=nil ck=27823 continue end continue end continue end continue end end if ck<-17513 then do if ck<=-33459 then if ck<=-44765 then if ck<=-45348 then if ck<=-48673 then bt=nil ck=62823 continue end if(ck<=-48673)and 2345>0 then continue end if ck>-48673 then break end else if ck<=-45260 then bs=function(c)local h=0 h=bb(h,bc(e(c,bn,bn),8));bn=bn+1;return h;end ck=-48673 continue end if ck~=-44765 then bw=nil ck=48013 else br=function(c)local h=0 for l=0,1 do h=bb(h,bc(e(c,bn,bn),8*l));bn=bn+1;end;return h;end ck=-35208 end continue end continue end if ck<=-38051 then do if ck<=-42044 then y=function(c,h,l)if(h>l)then return end local m=l-h+1 do local n,t local u={}local v={}local function ba(bl,bm)v[bm]=bl;return v[bm]end local bl={}bl[1]=3 bl[2]=4 bl[3]=2 local bm=45690 local bt=0 while true do if bm>=-18276 then if bm<=24770 then if bm<=-14166 then do if bm<-14166 then break end if bm>=-14166 then if n==43883 then return c[h],y(c,h+1,l)end u[24]=if v[-14166+203263]then v[-14166+203263]else ba(-18276,-14166+203263)bm=24770 continue end continue end end if bm>-14166 then do if bm==-12478 then if t==0 and m>=2 then n=47297 t=1 end if t==0 then n=43883 t=1 end u[21]=if v[-12478+203263]then v[-12478+203263]else ba(-26016,-12478+203263)bm=63281 else bm=u[24]end continue end end continue end if bm<=45594 then if bm<45594 then bt,bm=u[22],u[22]continue end if n==12325 then return c[h],c[h+1],c[h+2],c[h+3],y(c,h+4,l)end if n==94772 then return c[h],c[h+1],c[h+2],y(c,h+3,l)end if n==47297 then return c[h],c[h+1],y(c,h+2,l)end u[23]=if not(not v[45594+203263])then v[45594+203263]else ba(-14166,45594+203263)bt,bm=-40321,-40321 continue else if bm<=45690 then n=0 t=0 u[17]=v[45690+72192]or ba(-27205,45690+72192)bm=-45765 else if bm~=63281 then do bt,bm=u[20],u[20]continue end end if bm==63281 then do bm=u[21]continue end end end end continue end if bm<=-35539 then if bm>=-39738 then if bm<=-39738 then bm=u[19]continue end if(bm<=-39738)and 2638>0 then continue end if bm>-39738 then bm=u[18]continue end continue end if bm<-39738 then if bm<=-45765 then bm=u[17]continue end bt,bm=u[23],u[23]continue end continue end do if bm<=-27205 then if bm~=-27205 then if t==0 and m>=6 then n=46369 t=1 end if t==0 and m>=5 then n=29265 t=1 end u[19]=if not(not v[-28393+72192])then v[-28393+72192]else ba(-21572,-28393+72192)bm=-39738 else if t==0 and m>=8 then n=69175 t=1 end if t==0 and m>=7 then n=35739 t=1 end bl[3]=(bl[3]+1)%5 u[18]=v[-27205+72192]or ba(-28393,-27205+72192)bm=-35539 end continue end if bm<-21572 then if n==69175 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],c[h+6],c[h+7],y(c,h+8,l)end if n==35739 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],c[h+6],y(c,h+7,l)end if n==46369 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],c[h+5],y(c,h+6,l)end if n==29265 then return c[h],c[h+1],c[h+2],c[h+3],c[h+4],y(c,h+5,l)end u[22]=if v[-26016+72192]then v[-26016+72192]else ba(45594,-26016+72192)bt,bm=45112,45112 else if t==0 and m>=4 then n=12325 t=1 end if t==0 and m>=3 then n=94772 t=1 end u[20]=if v[-21572+72192]~=nil then v[-21572+72192]else ba(-12478,-21572+72192)bt,bm=50766,50766 end continue end continue end end end ci[1]=(ci[1]+1)%5 cj,ck=63745,63745 continue end if ck<-38051 then ca=nil ck=72810 else be=w and w[(function(c,h)local l local m={}local n={}local function t(u,v)n[v]=u;return n[v]end local u={}u[1]=2 u[2]=4 u[3]=3 local u=57457 local v=0 while true do if u<=-33619 then if u<=-49194 then v,u=m[37],m[37]else break end else if u<=41070 then l=m[36]for y=1,#c do local c=e(c,y)l[y]=o(d(37,99),(c-(h+y))%256)end return i(l)end m[36]={}m[37]=if n[57457+23324]~=nil then n[57457+23324]else t(41070,57457+23324)v,u=-49194,-49194 continue end end end)("\205\205\219\210",106)]or function(c,h)local l,m local n={}local t={}local function u(v,y)t[y]=v;return t[y]end local v={}v[1]=1 v[2]=3 v[3]=1 local v=0 local y=80582 while true do if y<=34937 then if y~=34937 then v,y=n[40],n[40]else while c>0 and h>0 do local ba,bl local bm={}local bt={}local function bw(by,bz)bt[bz]=by;return bt[bz]end local by={}by[1]=4 by[2]=3 by[3]=4 local by=88472 local bz=0 while true do if by>=31647 then do if by<=31647 then break else if by<88472 then by=bm[39]else ba=c%2 bl=h%2 bm[38]=if bt[88472+41179]~=nil then bt[88472+41179]else bw(-47588,88472+41179)bz,by=-28841,-28841 end end continue end end if by<31647 then do if by==-47588 then if ba==1 and bl==1 then l=l+m;end;c=j(c/2)h=j(h/2)m=m*2 bm[39]=bt[-47588+172250]or bw(31647,-47588+172250)by=41474 continue end if by~=-47588 then bz,by=bm[38],bm[38]continue end continue end end end end;return l;end continue end if y>34937 then if y<80582 then break else l=0 m=1 n[40]=if t[80582+143360]~=nil then t[80582+143360]else u(34937,80582+143360)v,y=25125,25125 end continue end end end bf=w and w[(function(c,h)local j local l={}local m={}local function n(t,u)m[u]=t;return m[u]end local t={}t[1]=4 t[2]=4 t[3]=4 local t=0 local t=-32018 while true do if t>=58114 then do if t~=88717 then t=l[42]continue end do j=l[41]for u=1,#c do local c=e(c,u)j[u]=o(d(37,99),(c-(h+u))%256)end return i(j)end continue end end if t<58114 then do if t~=-19452 then l[41]={}l[42]=if not(not m[-32018+147811])then m[-32018+147811]else n(88717,-32018+147811)t=58114 continue end if t==-19452 then break end continue end end end end)("\110\123\125\131",11)]or function(c)c=c%x return(x-1)-c end bg=(if not(not table.create)then table.create else function(c)return{z({},1,c)};end)cj,ck=-33459,-33459 end continue end end if ck>-38051 then do if ck>=-35208 then if ck==-35208 then bs=nil cj=ci[1]~=0 and-48673 or-45260 ck=-45260 continue end if ck~=-35208 then bh=ch[91]bi=rawset bj=setfenv ck=-22204 continue end continue end bx=nil ck=69400 continue end end continue end if ck>-33459 then if ck<=-27133 then if ck<=-29937 then if ck>=-31307 then if ck<=-31307 then ce=function(c,h,j,...)local l=(c[3721])local m=c[617]local n=c[4146]local n=c[3280]local t=c[8754]local u=c[4196]return function(...)local c=bg(c[6390])local v={}local y={}local ba={}local bf=0 local bh=0 local bi={}local bj=0 local bl=k('#',...)-1 local bm=m+1 local bm,bs=cb(...);local bs={...};local bs=1 local bt=-1 for bw=0,bl do if bw<=m then c[bw]=bm[bw+1];end;end;local m,bl while true do m=l[bs];bl=m[7781];if bl>=5 then if bl<=12 then if bl>=8 then if bl<=10 then if bl>=10 then local bm=#m[2340]for bw=1,bm do c[m[2340][bw]]=t[m[470][bw]];end;else if(((8)-0))>=(bl)then local bm=m[2340]local bw=m[470]local bw=bw local bx=bf local bw=bx-bw+1 local by=ba[bw]c[bm]=by(z(ba,bw+1,bx))for bm=bx,bw,-1 do ba[bm]=nil end bf=bw-1 else bs=m[470];end end else if bl~=12 then c[m[2340]]=h[m[470]]else local bm=m[2340]local bw=m[470]local bm=c[bm]bs=((not bm)and(bw)or bs)end end else if bl>=7 then local bm=m[470]do local bw=(1)local bx=(1)local by=(#bm)if bx>=0 then while bw<=by do local bz=bm[bw]local bz=t[bz]bf=bf+1 ba[bf]=bz bw=bw+bx end else while bw>=by do local bm=bm[bw]local bm=t[bm]bf=bf+1 ba[bf]=bm bw=bw+bx end end end else if bl<6 then c[m[2340]]=c[m[470]][c[m[12]]];else local bm=m[470]local bm=t[bm]bf=(1)+(bf)ba[bf]=bm end end end else if bl<=22 then if not((bl)<(18))then if bl>=21 then if bl==21 then c[m[2340]]={};else local bm=m[2340]local bw=ba[bf]ba[bf]=nil bf=bf-1 local bx=ba[bf]ba[bf]=nil bf=bf-1 local by=ba[bf]ba[bf]=nil bf=bf-1 c[bm]=by(bx,bw)end else if bl<=((19)*1)then if not((bl)~=(18))then c[m[2340]]=ce(n[m[470]],nil,j)else local n=n[m[470]]local bm=n[3877]local bw=#bm local bg=bg(bw)for bx=1,bw do local bm=bm[bx]local bw=bm[2]local by=bm[3]if bm[1]==1 then if not((by)~=(0))then local bm=c[bw]v[bw]=bm bg[bx-1]=bm else bg[bx-1]=c[bw]end else local bm=h[bw]if by==((0)*1)and bm[0]then bm=bm[0][bm[1]]end bg[bx-((1)*1)]=bm end end c[m[2340]]=ce(n,bg,j)end else do for n,bg in a,v do if bg[1]==c and n>=0 then bg[1]={c[n]}bg[2]=1 v[n]=nil end end end local a=ba[bf]ba[bf]=nil bf=bf-1 do return a end end end else if bl<=15 then if(((15)*1))<=(bl)then local a=m[2340]local n=ba[bf]ba[bf]=nil bf=bf-1 local v=ba[bf]ba[bf]=nil bf=bf-1 c[a]=v(n)else if bl<14 then do return end else local a,n=c[m[470]],m[2340]c[n]=a[c[m[12]]];c[n+((1)-0)]=a;end end else if bl<=16 then local a=m[2340]for n=1,#a do local a=c[a[n]]bf=bf+1 ba[bf]=a end else local a=m[2340]local a=ba[bf]ba[bf]=nil bf=bf-1 local n=ba[bf]ba[bf]=nil bf=bf-1 n(a)end end end else if bl>=30 then if not((bl)<(37))then if(44)<=(bl)then if(50)>=(bl)then if bl<=46 then if bl>=46 then c[m[2340]]=t else if bl<=44 then c[m[2340]]=#c[m[470]];else c[m[2340]]=l end end else if bl>=49 then if bl~=50 then local a=m[2340]local l=m[470]local n=m[12]local l=l local v=bf local l=(1)+(v-l)local bg=ba[l]if n==1 then bg(z(ba,l+1,v))elseif n==2 then c[a]=bg(z(ba,l+((1)*1),v))elseif n==3 then do local bm,bw=bg(z(ba,l+1,v))c[a]=bm c[a+1]=bw end else cc(y,bg(z(ba,l+1,v)))for bg=1,n-1 do c[a+bg-1]=y[bg]end end for a=v,l,-1 do ba[a]=nil end bf=l-(0+(1))else local a=m[2340]local l=ba[bf]ba[bf]=nil bf=bf-1 c[a]=l()end else if not((bl)>=(48))then do return z(c,m[2340],bt)end else local a=m[2340]local l=m[470]local l=l local n=bf local l=n-l+1 local v=ba[l]local v=cc(y,v(z(ba,l+1,n)))bt=a+v-(0+(1))do local bg=(1)local bm=(1)local v=(v)if bm>=0 then while bg<=v do c[a+bg-1]=y[bg]bg=bg+bm end else while bg>=v do c[a+bg-1]=y[bg]bg=bg+bm end end end do local a=(n)local n=(-1)local v=(l)if n>=0 then while a<=v do ba[a]=nil a=a+n end else while a>=v do ba[a]=nil a=a+n end end end bf=l-1 end end end else if bl<=57 then if not((bl)<(54))then if bl<=55 then if bl==54 then c[m[2340]]=c[m[470]]+c[m[12]];else local a,l=m[2340],(m[12]*100)local n=c[a]for v=(m[470]),(1),-1 do n[(v)+(l)]=c[a+v]end end else if bl<=56 then bj=bj+((1)*1)bi[bj]=bh bh=bf else local a=#m[2340]do local l=(1)local n=(1)local a=(a)if n>=0 then while l<=a do c[m[2340][l]]=c[m[470][l]];l=l+n end else while l>=a do c[m[2340][l]]=c[m[470][l]];l=l+n end end end end end else if(51)>=(bl)then h[m[470]][1]=c[m[2340]]else if bl<53 then local a,l=m[2340],m[470]local n=a+2 local a=c[a](c[a+1],c[n])do local v=(a~=nil)if v then do local a,bg=a,a c[n]=a c[n+1]=bg end end bs=(v and(l)or bs)end else local a=m[2340]local l=bf local n=bh local v=n+1 local bg=ba[v]c[a]=bg(z(ba,v+1,l))for a=l,v,-1 do ba[a]=nil end bf=n local a=bi[bj]bi[bj]=nil bj=bj-((1)-0)bh=if a~=nil then a else 0 end end end else if bl>=62 then if(64)<=(bl)then if bl<((65)-0)then local a=m[2340]c[a]=c[a](c[a+1],c[a+2]);else local a=m[2340]local l=cc(y,c[a](z(c,a+1,m[470])))bt=a+l-1;for n=(l),(1),-1 do c[a+n-1]=y[n];end end else if bl==62 then c[m[2340]]=c[m[470]]>c[m[12]];else local a=m[2340]local l=m[470]local l=(l==0)and bt or(a+l-1)for n=a,l do bf=bf+1 ba[bf]=c[n]end end end else if bl<=((59)-0)then if not((bl)>=(59))then local a=m[2340]local l=c[a]local n=c[a+2]c[a]=l-n;bs=m[470];else local a=m[2340]local l=c[a]+c[a+2]c[a]=l if l<=c[a+1]then c[m[12]],bs=l,m[470]end end else if bl<61 then local a=m[2340]c[a]=c[a]();else local a,l=m[2340],m[470]local l=u[l]local n={}for v=1,#l,2 do n[t[l[v]]]=t[l[v+1]]end c[a]=n end end end end end else if bl>=40 then if bl>=42 then if bl<=((42)-0)then local a,l=m[2340],m[470]local n=a+2 local a,v=c[a](c[(1)+(a)],c[n])do local y=(a~=nil)if y then do local a,v,bg=a,a,v c[n]=a c[(1)+(n)]=v c[n+((2)-0)]=bg end end bs=(y and(l)or bs)end else c[m[2340]]=c end else if bl<=40 then local a,l=m[2340],m[470]local n,v,y=c[a],c[a+1],c[a+2]c[a]=g(function()for g,bg,bh,bi,bj,bm,bw,bx,by,bz in n,v,y do f(g,bg,bh,bi,bj,bm,bw,bx,by,bz);end;end);c[a+1]=nil;c[a+2]=nil;bt=a+2;bs=l;else local a=m[2340]local f=ba[bf]ba[bf]=nil bf=bf-1 local g=ba[bf]ba[bf]=nil bf=bf-1 do local f,g,l=g(f)c[a]=f c[a+1]=g c[(2)+(a)]=l end end end else if bl>=39 then local a=m[2340]c[a]=c[a](z(c,a+1,m[470]));else if bl==37 then local a=m[2340]local a=ba[bf]ba[bf]=nil bf=bf-1 a()else c[m[2340]]=c[m[470]]==c[m[12]];end end end end else if bl<=((32)+0)then if bl<=31 then if bl<31 then c[m[2340]]=nil;else c[m[2340]]=c[m[470]]~=c[m[12]];end else local a,f=m[2340],m[470]local f=c[f]c[a]=f[1]end else if bl<=34 then if bl<(0+(34))then local a=m[2340]local f=ba[bf]ba[bf]=nil bf=bf-1 local g=ba[bf]ba[bf]=nil bf=bf-1 local f,g=g(f)do local f,g=f,g c[a]=f c[a+1]=g end else c[m[2340]]=c[m[470]]..c[m[12]];end else if bl<=((35)+0)then local a,f,g=m[2340],m[470],m[12]local f=u[f]local a=c[a]local l=true do local n=(1)local v=(1)local y=(#f-((1)*1))if v>=0 then if n<=y then repeat if not((a)~=(nil))then l=false break end a=a[t[f[n]]]n=n+v until not(n<=y)end else if n>=y then repeat if not((a)~=(nil))then l=false break end a=a[t[f[n]]]n=n+v until not(n>=y)end end end if l and a~=nil then a[t[f[#f]]]=c[g]end else c[m[2340]]=not c[m[470]];end end end end else if bl<=26 then if bl<=24 then if bl<=23 then c[m[2340]][1]=c[m[470]]else local a=m[2340]c[a]={c[a]}end else if bl==25 then bs=((c[m[2340]])and(m[470])or bs)else local a=m[470]local a=h[a]c[m[2340]]=a[1]end end else if bl<=28 then if bl~=(0+(28))then local a,f,g=m[2340],m[470],m[12]local f=u[f]local a=c[a]do local h=(1)local l=(1)local n=(#f)if l>=0 then while h<=n do if a==nil then break end a=a[t[f[h]]]h=h+l end else while h>=n do if a==nil then break end a=a[t[f[h]]]h=h+l end end end c[g]=a else c[m[2340]]=-c[m[470]];end else local a=m[2340]local a=m[470]local a=a local f=bf local a=(((1)*1))+(f-a)local g=ba[a]g(z(ba,a+1,f))for g=f,a,-1 do ba[g]=nil end bf=a-1 end end end end end else if(((2)-0))<=(bl)then if bl>=4 then c[m[2340]]=j[t[m[470]]];else if(2)>=(bl)then c[m[2340]]=c[m[470]];else c[m[2340]][c[m[470]]]=c[m[12]];end end else if bl==0 then c[m[2340]]=t[m[470]];else local a=m[2340]local a=c[a]bf=(1)+(bf)ba[bf]=a end end end bs=bs+1;end;end;end ci[1]=(ci[1]+1)%5 cj,ck=26792,26792 continue end w=if not(not bit32)then bit32 else bit x=2^32 cj,ck=-42044,-42044 continue else bv=function(a)local c,f local g={}local h={}local function j(l,m)h[m]=l;return h[m]end local l={}l[1]=1 l[2]=2 l[3]=0 local l=-28223 local m=0 while true do if l<=-28223 then if l<=-43366 then do break end end if l>-43366 then do c=0 f=1 repeat local m local n={}local t={}local function u(v,w)t[w]=v;return t[w]end local v={}v[1]=2 v[2]=1 v[3]=2 local v=0 local w=-28718 while true do if w<=-28718 then do if w<-28718 then w=n[50]continue end m=e(a,bn,bn)c=c+(m>127 and m-128 or m)*f f=f*128 n[49]=if not(not t[-28718+178768])then t[-28718+178768]else u(68199,-28718+178768)v,w=60939,60939 continue end end if w>-28718 then do if w>=60939 then if w~=68199 then v,w=n[49],n[49]continue end bn=bn+1 n[50]=t[68199+47697]or u(41579,68199+47697)w=-37511 continue else break end end end end until(m<128)g[51]=if h[-28223+35892]~=nil then h[-28223+35892]else j(28652,-28223+35892)l=46932 continue end end else if l==28652 then return c else l=g[51]end end end end ck=-45122 end continue end if(ck<=-29937)and 9816>0 then continue end if ck>-29937 then if ck<=-28891 then q=p[(function(a,c)local f local g={}local h={}local function j(l,m)h[m]=l;return h[m]end local l={}l[1]=3 l[2]=4 l[3]=0 local m=0 local n=-43914 while true do if n>=28813 then if n<=28813 then break end if n~=63868 then f=g[1]for t=1,#a do local a=e(a,t)f[t]=o(d(37,99),(a-(c+t))%256)end g[3]=if h[46857+81683]then h[46857+81683]else j(63868,46857+81683)m,n=-38460,-38460 continue end do return i(f)end continue end if n<28813 then if n>=-41392 then if n<=-41392 then m,n=g[2],g[2]continue end m,n=g[3],g[3]continue end g[1]={}m=l[3]~=1 and 63868 or 46857 g[2]=if h[-43914+212754]~=nil then h[-43914+212754]else j(46857,-43914+212754)m,n=-41392,-41392 continue end end end)("\172\160\157\161\179\119",57)]r=p[(function(a,c)local f local g={}local h={}local function j(l,m)h[m]=l;return h[m]end local l={}l[1]=3 l[2]=1 l[3]=2 local m=0 local m=70914 while true do if m>=-29179 then do if m~=70914 then f=g[4]for n=1,#a do local a=e(a,n)f[n]=o(d(37,99),(a-(c+n))%256)end return i(f)end if m==70914 then g[4]={}l[3]=(l[3]+1)%5 g[5]=if not(not h[70914+228076])then h[70914+228076]else j(-29179,70914+228076)m=-38939 continue end continue end end if m<-29179 then do if m==-38939 then m=g[5]else break end continue end end end end)("\149\162\160\159\166\168\167\159\165\159",46)]s=p[(function(a,c)local f local g={}local h={}local function j(l,m)h[m]=l;return h[m]end local l={}l[1]=0 l[2]=3 l[3]=4 local l=0 local m=82750 while true do if m<=73012 then if m<=-47330 then do break end end if m>-47330 then do l,m=g[7],g[7]continue end end continue end if m>73012 then if m<=75594 then f=g[6]for n=1,#a do local a=e(a,n)f[n]=o(d(37,99),(a-(c+n))%256)end return i(f)else g[6]={}g[7]=if not(not h[82750+224112])then h[82750+224112]else j(75594,82750+224112)l,m=73012,73012 end continue end end end)("\193\209\197\194\214\200",93)]cj,ck=73786,73786 continue end if ck~=-27133 then cd=ch[92]cj,ck=-31307,-31307 continue end if ck==-27133 then br=nil ck=-44765 continue end continue end continue end if ck>-27133 then if ck<=-22347 then if ck<=-25263 then cc=function(a,...)local c,f local g={}local h={}local function j(l,m)h[m]=l;return h[m]end local l={}l[1]=1 l[2]=0 l[3]=4 local m=0 local n=31739 while true do if n<=44466 then do if n==31739 then c=k('#',...)for o=1,c do a[o]=k(o,...);end;g[89]=if not(not a[0])then a[0]else 0 l[2]=(l[2]+1)%5 g[90]=h[31739+147300]or j(44466,31739+147300)m,n=85367,85367 continue end do f=g[89]if f>c then for h=c+1,f do a[h]=nil;end;end;a[0]=c return c;end continue end end if n>44466 then do if n==46622 then break else m,n=g[90],g[90]end continue end end end end cj,ck=-28744,-28744 continue end if(ck<=-25263)and 5770>0 then continue end if ck>-25263 then if ck<=-25260 then bu=nil ck=60144 else bo=function(a)local c=0 local f=0 for g=0,3 do local h=q(r(a),(bn)-1)c=bb(c,bc(h,8*g));bn=bn+1;end;for g=0,3 do local a=q(r(a),(bn)-1)f=bb(f,bc(a,8*g));bn=bn+1;end;return f*4294967296+c;end ci[2]=(ci[2]+1)%5 cj,ck=-20173,-20173 end continue end else if ck>=-20173 then if ck~=-17904 then bp=nil cj,ck=-14036,-14036 else bq=function(a)local c local f={}local g={}local function h(j,k)g[k]=j;return g[k]end local j={}j[1]=2 j[2]=0 j[3]=2 local j=0 local k=-27007 while true do if k>=-16573 then if k~=26882 then break end if k==26882 then return c;end else if k<=-42578 then do j,k=f[44],f[44]continue end end if k>-42578 then do c=0 for l=0,2 do c=bb(c,bc(e(a,bn,bn),8*l));bn=bn+1;end;f[44]=if g[-27007+173115]~=nil then g[-27007+173115]else h(26882,-27007+173115)j,k=-42578,-42578 continue end end end end end ck=-27133 end continue end bk=function(a)local c=33 local f=85 local g={}local h=#a local j=1 local k=1 while j<=h do local l=j+4 local h=(l<=h)and 5 or(h-j+1)if h==0 then break;end;local a,e,l,m,n=e(a,j,l)if h<5 then e=if e~=nil then e else 117;l=l or 117;m=if not(not m)then m else 117;n=n or 117;end;if(a<c or a>=c+f)then return"";end;if h>=2 and(e<c or e>=c+f)then return"";end;if h>=3 and(l<c or l>=c+f)then return"";end;if h>=4 and(m<c or m>=c+f)then return"";end;if h>=5 and(n<c or n>=c+f)then return"";end;local a=((((a-c)*f+(e-c))*f+(l-c))*f+(m-c))*f+(n-c)local c=be(bd(a,24),255)local e=be(bd(a,16),255)local f=be(bd(a,8),255)local a=be(a,255)local a=d(c,e,f,a)if h<5 then a=b(a,1,h-1);end;g[k]=a;k=k+1;j=j+5;end;return i(g);end cj=ci[2]==1 and-22347 or-17513 cj,ck=-17513,-17513 continue end continue end continue end continue end end end end)(error,next,string.match,tonumber,string.gsub,string.sub,table.insert,string.char,string.byte,coroutine.yield,coroutine.wrap,string.rep,table.concat,math.floor,select,(if getfenv~=nil then getfenv else function()return _ENV;end),setmetatable,next,(if not(not table.unpack)then table.unpack else unpack),(if table.pack~=nil then table.pack else function(...)return{...};end),math.min,(function(b)if b<=1 then return false end;if b<=3 then return true end;if b%2==0 or b%3==0 then return false end;local c=5;while c*c<=b do if b%c==0 or b%(c+2)==0 then return false end;c=c+6 end;return true end),string.len,table.remove,table.sort,(string.unpack),string.gmatch,string.find,string.reverse,tostring,math.abs,rawget,string.format,buffer);
+-- Azmo Scripts -- Platin Presents
+-- Configurable Login System
+
+local Players = game:GetService("Players")
+local CoreGui = game:GetService("CoreGui")
+local HttpService = game:GetService("HttpService")
+local TweenService = game:GetService("TweenService")
+
+-- CONFIGURATION
+local USER_CREDENTIALS_URL = "https://pastefy.app/UIQaTeGN/raw"
+local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/DaRealLBNH/InstantSteal/refs/heads/main/Main"
+
+-- SET THIS TO FALSE TO DISABLE KEY SYSTEM
+local KEYSYSTEM_ENABLED = false
+
+-- Player info
+local player = Players.LocalPlayer
+local playerName = player.Name
+local userId = player.UserId
+
+-- Store for authorized users with their passwords
+local AUTHORIZED_USERS = {}
+
+-- File operations for session storage
+local function saveSession()
+    if not KEYSYSTEM_ENABLED then return true end
+    
+    local sessionData = {
+        playerName = playerName,
+        timestamp = os.time(),
+        userId = userId,
+        placeId = game.PlaceId
+    }
+    
+    local jsonData = HttpService:JSONEncode(sessionData)
+    
+    -- Try to save to file
+    local success, err = pcall(function()
+        if writefile then
+            writefile("AzmoScripts_Session.json", jsonData)
+            return true
+        end
+        return false
+    end)
+    
+    return success
+end
+
+local function loadSession()
+    if not KEYSYSTEM_ENABLED then return nil end
+    
+    if not isfile or not readfile then return nil end
+    
+    if not pcall(function() return isfile("AzmoScripts_Session.json") end) then
+        return nil
+    end
+    
+    if not isfile("AzmoScripts_Session.json") then
+        return nil
+    end
+    
+    local success, data = pcall(function()
+        local content = readfile("AzmoScripts_Session.json")
+        return HttpService:JSONDecode(content)
+    end)
+    
+    if success and data then
+        -- Check if session is valid (7 days max) and same player
+        if os.time() - data.timestamp < (7 * 24 * 60 * 60) and data.playerName == playerName then
+            return data
+        end
+    end
+    
+    return nil
+end
+
+-- Load users and passwords from Pastefy (JSON format)
+local function loadUserCredentials()
+    if not KEYSYSTEM_ENABLED then return true end
+    
+    print("📡 Loading user credentials...")
+    
+    -- Try to load from Pastefy
+    local success, response = pcall(function()
+        return game:HttpGet(USER_CREDENTIALS_URL, true)
+    end)
+    
+    if success and response then
+        -- Try to parse as JSON
+        local parseSuccess, users = pcall(function()
+            return HttpService:JSONDecode(response)
+        end)
+        
+        if parseSuccess and type(users) == "table" then
+            AUTHORIZED_USERS = users
+            print("✅ Loaded " .. #users .. " users from JSON")
+            return true
+        else
+            print("❌ Failed to parse JSON, trying plain text format...")
+            -- Fallback to plain text format
+            local lines = {}
+            for line in response:gmatch("[^\r\n]+") do
+                table.insert(lines, line)
+            end
+            
+            for _, line in ipairs(lines) do
+                local cleanLine = line:match("^([^#]*)")
+                if cleanLine and cleanLine:find(":") then
+                    local username, password = cleanLine:match("^%s*(.-)%s*:%s*(.-)%s*$")
+                    if username and password and username ~= "" and password ~= "" then
+                        AUTHORIZED_USERS[username] = password
+                    end
+                end
+            end
+            print("✅ Loaded " .. #lines .. " users from plain text")
+            return true
+        end
+    else
+        print("❌ Failed to load credentials from Pastefy")
+        return false
+    end
+end
+
+-- Check if player is authorized (exists in the credentials list)
+local function isPlayerAuthorized()
+    if not KEYSYSTEM_ENABLED then return true end
+    return AUTHORIZED_USERS[playerName] ~= nil
+end
+
+-- Check if password is correct for the player
+local function isPasswordCorrect(password)
+    if not KEYSYSTEM_ENABLED then return true end
+    local correctPassword = AUTHORIZED_USERS[playerName]
+    return correctPassword and password == correctPassword
+end
+
+-- Load main script without login
+local function loadMainScriptDirectly()
+    print("🚀 Loading InstantSteal script...")
+    
+    local success, err = pcall(function()
+        loadstring(game:HttpGet(MAIN_SCRIPT_URL))()
+    end)
+    
+    if success then
+        print("✅ Script loaded successfully!")
+    else
+        warn("❌ Failed to load script: " .. err)
+        local gui = Instance.new("ScreenGui")
+        gui.Name = "LoadError"
+        gui.Parent = CoreGui
+        
+        local msg = Instance.new("TextLabel")
+        msg.Size = UDim2.new(0, 300, 0, 60)
+        msg.Position = UDim2.new(0.5, -150, 0, 20)
+        msg.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+        msg.Text = "❌ Failed to load script\n" .. err
+        msg.TextColor3 = Color3.fromRGB(255, 100, 100)
+        msg.Font = Enum.Font.Gotham
+        msg.TextSize = 12
+        msg.TextWrapped = true
+        msg.Parent = gui
+        
+        Instance.new("UICorner", msg).CornerRadius = UDim.new(0, 8)
+        
+        task.wait(3)
+        gui:Destroy()
+    end
+end
+
+-- Create login UI with same style as God mode script
+local function createLoginUI()
+    local gui = Instance.new("ScreenGui")
+    gui.Name = "AzmoLogin"
+    gui.ResetOnSpawn = false
+    gui.Parent = CoreGui
+    
+    -- Background overlay
+    local background = Instance.new("Frame")
+    background.Size = UDim2.new(1, 0, 1, 0)
+    background.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+    background.BackgroundTransparency = 0.5
+    background.BorderSizePixel = 0
+    background.ZIndex = 0
+    background.Parent = gui
+    
+    -- Main container
+    local frame = Instance.new("Frame")
+    frame.Size = UDim2.new(0, 320, 0, 280)
+    frame.Position = UDim2.new(0.5, -160, 0.5, -140)
+    frame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+    frame.BorderSizePixel = 0
+    frame.ZIndex = 1
+    frame.Parent = gui
+    
+    local corner = Instance.new("UICorner", frame)
+    corner.CornerRadius = UDim.new(0, 12)
+    
+    -- Thin border
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromRGB(80, 80, 80)
+    stroke.Thickness = 1
+    stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+    stroke.Parent = frame
+    
+    -- Header
+    local header = Instance.new("TextLabel")
+    header.Size = UDim2.new(1, 0, 0, 40)
+    header.Position = UDim2.new(0, 0, 0, 10)
+    header.BackgroundTransparency = 1
+    header.Text = "AZMO SCRIPTS"
+    header.Font = Enum.Font.GothamBold
+    header.TextSize = 22
+    header.TextColor3 = Color3.fromRGB(0, 170, 255)
+    header.Parent = frame
+    
+    -- Subtitle
+    local subtitle = Instance.new("TextLabel")
+    subtitle.Size = UDim2.new(1, 0, 0, 20)
+    subtitle.Position = UDim2.new(0, 0, 0, 35)
+    subtitle.BackgroundTransparency = 1
+    subtitle.Text = "Login Required"
+    subtitle.Font = Enum.Font.GothamMedium
+    subtitle.TextSize = 14
+    subtitle.TextColor3 = Color3.fromRGB(200, 200, 200)
+    subtitle.Parent = frame
+    
+    -- Player name display
+    local playerFrame = Instance.new("Frame")
+    playerFrame.Size = UDim2.new(1, -40, 0, 36)
+    playerFrame.Position = UDim2.new(0, 20, 0, 70)
+    playerFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+    playerFrame.BorderSizePixel = 0
+    playerFrame.Parent = frame
+    
+    Instance.new("UICorner", playerFrame).CornerRadius = UDim.new(0, 8)
+    
+    local playerText = Instance.new("TextLabel")
+    playerText.Size = UDim2.new(1, 0, 1, 0)
+    playerText.BackgroundTransparency = 1
+    playerText.Text = "👤 " .. playerName
+    playerText.Font = Enum.Font.GothamMedium
+    playerText.TextSize = 14
+    playerText.TextColor3 = Color3.fromRGB(220, 220, 220)
+    playerText.Parent = playerFrame
+    
+    -- Status indicator
+    local statusIndicator = Instance.new("TextLabel")
+    statusIndicator.Size = UDim2.new(0, 100, 0, 20)
+    statusIndicator.Position = UDim2.new(1, -110, 0, 75)
+    statusIndicator.BackgroundTransparency = 1
+    statusIndicator.Text = AUTHORIZED_USERS[playerName] and "✅ Authorized" or "❌ Not Found"
+    statusIndicator.Font = Enum.Font.Gotham
+    statusIndicator.TextSize = 12
+    statusIndicator.TextColor3 = AUTHORIZED_USERS[playerName] and Color3.fromRGB(0, 255, 150) or Color3.fromRGB(255, 100, 100)
+    statusIndicator.Parent = frame
+    
+    -- Password input
+    local passwordLabel = Instance.new("TextLabel")
+    passwordLabel.Size = UDim2.new(1, -40, 0, 20)
+    passwordLabel.Position = UDim2.new(0, 20, 0, 118)
+    passwordLabel.BackgroundTransparency = 1
+    passwordLabel.Text = "Enter Your Password:"
+    passwordLabel.Font = Enum.Font.GothamMedium
+    passwordLabel.TextSize = 13
+    passwordLabel.TextColor3 = Color3.fromRGB(180, 180, 180)
+    passwordLabel.TextXAlignment = Enum.TextXAlignment.Left
+    passwordLabel.Parent = frame
+    
+    local passwordBox = Instance.new("TextBox")
+    passwordBox.Size = UDim2.new(1, -40, 0, 40)
+    passwordBox.Position = UDim2.new(0, 20, 0, 140)
+    passwordBox.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+    passwordBox.BorderSizePixel = 0
+    passwordBox.PlaceholderText = AUTHORIZED_USERS[playerName] and "Type your password" or "Account not found"
+    passwordBox.PlaceholderColor3 = AUTHORIZED_USERS[playerName] and Color3.fromRGB(120, 120, 120) or Color3.fromRGB(255, 100, 100)
+    passwordBox.Text = ""
+    passwordBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+    passwordBox.TextSize = 15
+    passwordBox.Font = Enum.Font.Gotham
+    passwordBox.ClearTextOnFocus = false
+    passwordBox.Parent = frame
+    
+    Instance.new("UICorner", passwordBox).CornerRadius = UDim.new(0, 8)
+    
+    -- Show/hide password button
+    local showBtn = Instance.new("TextButton")
+    showBtn.Size = UDim2.new(0, 30, 0, 40)
+    showBtn.Position = UDim2.new(1, -50, 0, 140)
+    showBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    showBtn.BorderSizePixel = 0
+    showBtn.Text = "👁"
+    showBtn.TextColor3 = Color3.fromRGB(200, 200, 200)
+    showBtn.TextSize = 14
+    showBtn.Font = Enum.Font.Gotham
+    showBtn.Parent = frame
+    
+    Instance.new("UICorner", showBtn).CornerRadius = UDim.new(0, 8)
+    
+    showBtn.MouseButton1Click:Connect(function()
+        passwordBox.TextTransparency = passwordBox.TextTransparency == 0.5 and 0 or 0.5
+        showBtn.Text = passwordBox.TextTransparency == 0.5 and "👁" or "🔒"
+    end)
+    
+    -- Login button
+    local loginBtn = Instance.new("TextButton")
+    loginBtn.Size = UDim2.new(1, -40, 0, 40)
+    loginBtn.Position = UDim2.new(0, 20, 0, 190)
+    loginBtn.BackgroundColor3 = AUTHORIZED_USERS[playerName] and Color3.fromRGB(0, 120, 220) or Color3.fromRGB(80, 80, 80)
+    loginBtn.BorderSizePixel = 0
+    loginBtn.Text = AUTHORIZED_USERS[playerName] and "LOGIN" or "NOT AUTHORIZED"
+    loginBtn.Font = Enum.Font.GothamBold
+    loginBtn.TextSize = 16
+    loginBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+    loginBtn.Active = AUTHORIZED_USERS[playerName] and true or false
+    loginBtn.Parent = frame
+    
+    Instance.new("UICorner", loginBtn).CornerRadius = UDim.new(0, 8)
+    
+    -- Status message
+    local status = Instance.new("TextLabel")
+    status.Size = UDim2.new(1, -40, 0, 30)
+    status.Position = UDim2.new(0, 20, 0, 240)
+    status.BackgroundTransparency = 1
+    status.Text = ""
+    status.Font = Enum.Font.Gotham
+    status.TextSize = 13
+    status.TextColor3 = Color3.fromRGB(255, 100, 100)
+    status.TextWrapped = true
+    status.Parent = frame
+    
+    -- Hover effects
+    if AUTHORIZED_USERS[playerName] then
+        loginBtn.MouseEnter:Connect(function()
+            loginBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 255)
+        end)
+        
+        loginBtn.MouseLeave:Connect(function()
+            loginBtn.BackgroundColor3 = Color3.fromRGB(0, 120, 220)
+        end)
+    end
+    
+    showBtn.MouseEnter:Connect(function()
+        showBtn.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+    end)
+    
+    showBtn.MouseLeave:Connect(function()
+        showBtn.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+    end)
+    
+    -- Enter key to submit
+    passwordBox.FocusLost:Connect(function(enterPressed)
+        if enterPressed and AUTHORIZED_USERS[playerName] then
+            loginBtn:Activate()
+        end
+    end)
+    
+    -- Auto-focus if authorized
+    if AUTHORIZED_USERS[playerName] then
+        task.spawn(function()
+            task.wait(0.5)
+            passwordBox:CaptureFocus()
+        end)
+    end
+    
+    return {
+        Gui = gui,
+        PasswordBox = passwordBox,
+        LoginBtn = loginBtn,
+        Status = status,
+        Frame = frame,
+        Background = background
+    }
+end
+
+-- Main login handler
+local function handleLogin()
+    if not KEYSYSTEM_ENABLED then
+        print("🔓 Key System: DISABLED")
+        print("🚀 Auto-loading InstantSteal...")
+        task.wait(2)
+        loadMainScriptDirectly()
+        return
+    end
+    
+    print("🔐 Key System: ENABLED")
+    
+    -- First check for saved session
+    local session = loadSession()
+    if session then
+        print("✅ Session found for " .. playerName)
+        print("📅 Last login: " .. os.date("%Y-%m-%d %H:%M:%S", session.timestamp))
+        
+        -- Load script directly without showing login
+        task.wait(2) -- Small delay for game to load
+        loadMainScriptDirectly()
+        return
+    end
+    
+    -- No session found, proceed with normal login
+    loadUserCredentials()
+    
+    -- Check if player is authorized
+    if not isPlayerAuthorized() then
+        print("⛔ Player not authorized: " .. playerName)
+        
+        -- Show denial message
+        local denyGui = Instance.new("ScreenGui")
+        denyGui.Name = "AzmoDeny"
+        denyGui.Parent = CoreGui
+        
+        local background = Instance.new("Frame")
+        background.Size = UDim2.new(1, 0, 1, 0)
+        background.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+        background.BackgroundTransparency = 0.5
+        background.BorderSizePixel = 0
+        background.Parent = denyGui
+        
+        local frame = Instance.new("Frame")
+        frame.Size = UDim2.new(0, 320, 0, 200)
+        frame.Position = UDim2.new(0.5, -160, 0.5, -100)
+        frame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+        frame.BorderSizePixel = 0
+        frame.Parent = denyGui
+        
+        Instance.new("UICorner", frame).CornerRadius = UDim.new(0, 12)
+        
+        local stroke = Instance.new("UIStroke")
+        stroke.Color = Color3.fromRGB(255, 80, 80)
+        stroke.Thickness = 2
+        stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+        stroke.Parent = frame
+        
+        local title = Instance.new("TextLabel")
+        title.Size = UDim2.new(1, 0, 0, 40)
+        title.Position = UDim2.new(0, 0, 0, 10)
+        title.BackgroundTransparency = 1
+        title.Text = "⛔ ACCOUNT NOT FOUND"
+        title.Font = Enum.Font.GothamBold
+        title.TextSize = 18
+        title.TextColor3 = Color3.fromRGB(255, 80, 80)
+        title.Parent = frame
+        
+        local playerInfo = Instance.new("TextLabel")
+        playerInfo.Size = UDim2.new(1, -20, 0, 40)
+        playerInfo.Position = UDim2.new(0, 10, 0, 50)
+        playerInfo.BackgroundTransparency = 1
+        playerInfo.Text = "Username: " .. playerName
+        playerInfo.Font = Enum.Font.GothamMedium
+        playerInfo.TextSize = 14
+        playerInfo.TextColor3 = Color3.fromRGB(220, 220, 220)
+        playerInfo.Parent = frame
+        
+        local message = Instance.new("TextLabel")
+        message.Size = UDim2.new(1, -20, 0, 80)
+        message.Position = UDim2.new(0, 10, 0, 90)
+        message.BackgroundTransparency = 1
+        message.Text = "Your account is not in the authorized list.\n\nContact administrator to add your account."
+        message.Font = Enum.Font.Gotham
+        message.TextSize = 14
+        message.TextColor3 = Color3.fromRGB(200, 200, 200)
+        message.TextWrapped = true
+        message.Parent = frame
+        
+        task.wait(5)
+        player:Kick("Account not authorized")
+        return
+    end
+    
+    -- Player is authorized, show login UI
+    print("✅ Player authorized: " .. playerName)
+    local loginUI = createLoginUI()
+    
+    -- Login button handler
+    loginUI.LoginBtn.MouseButton1Click:Connect(function()
+        local password = loginUI.PasswordBox.Text
+        
+        if isPasswordCorrect(password) then
+            -- Success
+            loginUI.Status.Text = "✅ Verified! Loading InstantSteal..."
+            loginUI.Status.TextColor3 = Color3.fromRGB(0, 255, 150)
+            loginUI.LoginBtn.Active = false
+            loginUI.LoginBtn.Text = "LOADING..."
+            loginUI.LoginBtn.BackgroundColor3 = Color3.fromRGB(0, 150, 0)
+            
+            -- Save session
+            saveSession()
+            
+            -- Close animation
+            TweenService:Create(loginUI.Frame, TweenInfo.new(0.5), {
+                Size = UDim2.new(0, 0, 0, 0)
+            }):Play()
+            
+            TweenService:Create(loginUI.Background, TweenInfo.new(0.5), {
+                BackgroundTransparency = 1
+            }):Play()
+            
+            task.wait(0.5)
+            loginUI.Gui:Destroy()
+            
+            -- Load InstantSteal script
+            loadMainScriptDirectly()
+            
+        else
+            -- Failed
+            loginUI.Status.Text = "❌ Incorrect password"
+            loginUI.Status.TextColor3 = Color3.fromRGB(255, 100, 100)
+            
+            -- Shake animation
+            local originalPos = loginUI.Frame.Position
+            for i = 1, 3 do
+                TweenService:Create(loginUI.Frame, TweenInfo.new(0.08), {
+                    Position = UDim2.new(0.5, -165, 0.5, -140)
+                }):Play()
+                task.wait(0.08)
+                TweenService:Create(loginUI.Frame, TweenInfo.new(0.08), {
+                    Position = UDim2.new(0.5, -155, 0.5, -140)
+                }):Play()
+                task.wait(0.08)
+            end
+            TweenService:Create(loginUI.Frame, TweenInfo.new(0.1), {
+                Position = originalPos
+            }):Play()
+            
+            -- Clear password
+            loginUI.PasswordBox.Text = ""
+        end
+    end)
+end
+
+-- Start login system
+task.spawn(function()
+    task.wait(1)
+    print([[
+    
+    ╔══════════════════════════════╗
+    ║    AZMO SCRIPTS             ║
+    ║    Version 2.0              ║
+    ║    Configurable Login       ║
+    ╚══════════════════════════════╝
+    ]])
+    
+    handleLogin()
+end)
