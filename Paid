@@ -11,7 +11,7 @@ local USER_CREDENTIALS_URL = "https://pastefy.app/UIQaTeGN/raw"
 local MAIN_SCRIPT_URL = "https://raw.githubusercontent.com/DaRealLBNH/InstantSteal/refs/heads/main/Main"
 
 -- SET THIS TO FALSE TO DISABLE KEY SYSTEM
-local KEYSYSTEM_ENABLED = false
+local KEYSYSTEM_ENABLED = true
 
 -- Player info
 local player = Players.LocalPlayer
